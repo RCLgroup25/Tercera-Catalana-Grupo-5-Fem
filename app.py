@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import os
 
 # =========================================================
-# CONFIGURACIÓN DE PÁGINA
+# CONFIGURACIÓN
 # =========================================================
 st.set_page_config(
     layout="wide",
@@ -24,42 +24,35 @@ div.stButton > button { border-radius: 10px; font-weight: bold; }
 """, unsafe_allow_html=True)
 
 # =========================================================
-# CARGA DE DATOS (CSV)
+# CARGA DE DATOS
 # =========================================================
 @st.cache_data
 def load_data():
-    try:
-        df = pd.read_csv("df_finnal.csv")
-        df.columns = df.columns.str.strip()
+    df = pd.read_csv("df_finnal.csv")
+    df.columns = df.columns.str.strip()
 
-        if "equipo_key" in df.columns:
-            df["equipo_key"] = df["equipo_key"].astype(str).str.strip().str.lower()
+    if "equipo_key" in df.columns:
+        df["equipo_key"] = df["equipo_key"].astype(str).str.strip().str.lower()
 
-        if "Jugadora" in df.columns:
-            df["Jugadora"] = df["Jugadora"].astype(str).str.title()
+    if "Jugadora" in df.columns:
+        df["Jugadora"] = df["Jugadora"].astype(str).str.title()
 
-        if "Posición" in df.columns:
-            df["Posición"] = df["Posición"].fillna("N/D")
+    if "Posición" in df.columns:
+        df["Posición"] = df["Posición"].fillna("N/D")
 
-        if "Minutos" in df.columns:
-            df["Minutos"] = pd.to_numeric(df["Minutos"], errors="coerce").fillna(0)
+    if "Minutos" in df.columns:
+        df["Minutos"] = pd.to_numeric(df["Minutos"], errors="coerce").fillna(0)
 
-        return df
+    # Eliminar duplicados
+    if "Jugadora" in df.columns and "equipo_key" in df.columns:
+        df = df.drop_duplicates(subset=["Jugadora", "equipo_key"])
 
-    except Exception as e:
-        st.error(f"Error cargando CSV: {e}")
-        return pd.DataFrame()
+    return df
 
 df = load_data()
 
-# =========================================================
-# DEBUG SIDEBAR
-# =========================================================
-st.sidebar.header("Estado de datos")
-st.sidebar.write("Jugadoras cargadas:", len(df))
-
 if df.empty:
-    st.error("El CSV no se está leyendo. Verifica que df_finnal.csv esté junto a app.py.")
+    st.error("El CSV no se está leyendo correctamente.")
     st.stop()
 
 # =========================================================
@@ -91,31 +84,52 @@ with tab1:
 
         fig = px.scatter(
             df,
-            x="ratio_titularidad" if "ratio_titularidad" in df.columns else df.columns[0],
+            x="ratio_titularidad" if "ratio_titularidad" in df.columns else None,
             y="goles_per90",
             size="Minutos" if "Minutos" in df.columns else None,
             color="equipo_key" if "equipo_key" in df.columns else None,
-            hover_name="Jugadora" if "Jugadora" in df.columns else None,
+            hover_name="Jugadora",
             template="plotly_white"
         )
 
         st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.warning("No existe la columna goles_per90 en el CSV.")
+
+    # 🔥 TOP 10 GOLEADORAS EFICIENTES
+    st.markdown("### 🔝 Top 10 Goleadoras Eficientes")
+
+    if "goles_per90" in df.columns and "Minutos" in df.columns:
+
+        df_top = (
+            df[df["Minutos"] >= 300]
+            .sort_values("goles_per90", ascending=False)
+            .head(10)
+        )
+
+        cols_show = [c for c in ["Jugadora", "Goles", "goles_per90"] if c in df_top.columns]
+
+        st.dataframe(
+            df_top[cols_show].assign(
+                goles_per90=lambda x: x["goles_per90"].round(2)
+            ),
+            use_container_width=True
+        )
 
 # =========================================================
 # TAB 2 - EQUIPOS
 # =========================================================
 with tab2:
 
-    if "equipo_key" not in df.columns:
-        st.warning("No existe la columna equipo_key.")
-    else:
+    if "equipo_key" in df.columns:
+
         equipos = sorted(df["equipo_key"].unique())
         cols = st.columns(4)
 
         for i, equipo in enumerate(equipos):
             with cols[i % 4]:
+                logo_path = f"{equipo}.png"
+                if os.path.exists(logo_path):
+                    st.image(logo_path, use_container_width=True)
+
                 if st.button(equipo.upper(), use_container_width=True):
                     st.session_state["equipo_sel"] = equipo
 
@@ -124,17 +138,50 @@ with tab2:
             df_eq = df[df["equipo_key"] == eq]
 
             st.markdown(f"### Plantilla {eq.upper()}")
-            st.dataframe(df_eq, use_container_width=True)
+
+            cols_mostrar = [
+                c for c in [
+                    "Jugadora",
+                    "goles_per90",
+                    "amarillas_per90",
+                    "Minutos",
+                    "ratio_titularidad"
+                ] if c in df_eq.columns
+            ]
+
+            st.dataframe(
+                df_eq[cols_mostrar].sort_values("Minutos", ascending=False),
+                use_container_width=True
+            )
 
 # =========================================================
 # TAB 3 - PERFIL JUGADORA
 # =========================================================
 with tab3:
 
-    if "equipo_key" in df.columns and "Jugadora" in df.columns:
+    df_filtrado = df.copy()
 
-        eq_choice = st.selectbox("Equipo", sorted(df["equipo_key"].unique()))
-        df_eq = df[df["equipo_key"] == eq_choice]
+    # Slider experiencia
+    if "experiencia" in df.columns:
+        exp_min = int(df["experiencia"].min())
+        exp_max = int(df["experiencia"].max())
+
+        exp_range = st.slider(
+            "Filtrar por Experiencia",
+            exp_min,
+            exp_max,
+            (exp_min, exp_max)
+        )
+
+        df_filtrado = df[
+            (df["experiencia"] >= exp_range[0]) &
+            (df["experiencia"] <= exp_range[1])
+        ]
+
+    if "equipo_key" in df_filtrado.columns and "Jugadora" in df_filtrado.columns:
+
+        eq_choice = st.selectbox("Equipo", sorted(df_filtrado["equipo_key"].unique()))
+        df_eq = df_filtrado[df_filtrado["equipo_key"] == eq_choice]
 
         jug_choice = st.selectbox("Jugadora", df_eq["Jugadora"])
 
@@ -153,41 +200,44 @@ with tab3:
         if "ratio_titularidad" in df.columns:
             col3.metric("Ratio Titular", f"{ficha['ratio_titularidad']:.2f}")
 
-        # Radar simple si existen métricas
-        metrics = [m for m in ["goles_per90", "ratio_titularidad", "Minutos"] if m in df.columns]
-
-        if len(metrics) >= 2:
-            values = [(df[m] <= ficha[m]).mean() * 100 for m in metrics]
-
-            fig = go.Figure()
-            fig.add_trace(go.Scatterpolar(
-                r=values + [values[0]],
-                theta=metrics + [metrics[0]],
-                fill="toself"
-            ))
-
-            fig.update_layout(
-                polar=dict(radialaxis=dict(visible=True, range=[0, 100])),
-                showlegend=False
-            )
-
-            st.plotly_chart(fig, use_container_width=True)
-
 # =========================================================
 # TAB 4 - PORTERAS
 # =========================================================
 with tab4:
 
     if "Posición" in df.columns:
+
         df_gk = df[df["Posición"].str.contains("Porter", case=False, na=False)]
 
-        if not df_gk.empty and "goles_recibidos_per90" in df.columns:
-            st.metric("Porteras", len(df_gk))
-            st.dataframe(
-                df_gk.sort_values("goles_recibidos_per90"),
-                use_container_width=True
-            )
-        else:
-            st.info("No hay porteras detectadas o falta la métrica goles_recibidos_per90.")
-    else:
-        st.info("No existe la columna Posición.")
+        if not df_gk.empty:
+
+            if "experiencia" in df_gk.columns:
+
+                exp_min = int(df_gk["experiencia"].min())
+                exp_max = int(df_gk["experiencia"].max())
+
+                exp_range = st.slider(
+                    "Experiencia (Porteras)",
+                    exp_min,
+                    exp_max,
+                    (exp_min, exp_max),
+                    key="gk_slider"
+                )
+
+                df_gk = df_gk[
+                    (df_gk["experiencia"] >= exp_range[0]) &
+                    (df_gk["experiencia"] <= exp_range[1])
+                ]
+
+            if "goles_recibidos_per90" in df_gk.columns:
+
+                df_gk = df_gk.sort_values("goles_recibidos_per90", ascending=False)
+
+                st.dataframe(
+                    df_gk[[
+                        "Jugadora",
+                        "experiencia",
+                        "goles_recibidos_per90"
+                    ]].drop_duplicates(),
+                    use_container_width=True
+                )

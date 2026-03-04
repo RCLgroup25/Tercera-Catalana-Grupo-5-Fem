@@ -1,0 +1,627 @@
+﻿Equipo,Jugadora,Posición,PC,PJ,PT,Minutos,Goles,TA,TR,nombre_key,equipo_key,Nombre,ID_Preferente,Equipo_Origen,nombre_limpio,goles_per90,amarillas_per90,rojas_per90,experiencia,goles_recibidos_per90,ratio_confianza,ratio_titularidad
+Cd Riudoms,Vizcaino Aragones,Portero,0,0,0,0,0,0,0,vizcaino aragones,cd riudoms,"Vizcaino Aragones
+Noelia Vizcaino Aragones",555198,cd-riudoms,Vizcaino Aragones,0,0,0,Intermedia,0,0,0
+Cd Riudoms,Aina Escoda,Portero,10,10,10,836,-47,0,0,aina escoda,cd riudoms,"Aina Escoda
+Aina Escoda Morell",669920,cd-riudoms,Aina Escoda,0,0,0,Joven,5.059808612,1,1
+Cd Riudoms,Asier Alvarez,Portero,0,0,0,0,0,0,0,asier alvarez,cd riudoms,"Asier Alvarez
+Asier Alvarez Yuste",597011,cd-riudoms,Asier Alvarez,0,0,0,Intermedia,0,0,0
+Cd Riudoms,Capitán,Portero,0,0,0,0,0,0,0,capitan,cd riudoms,"CapitÃ¡n
+Sandra CapitÃ¡n Zamora",357417,cd-riudoms,CapitÃ¡n,0,0,0,Veterana,0,0,0
+Cd Riudoms,Llevat,Portero,0,0,0,0,0,0,0,llevat,cd riudoms,Llevat,356966,cd-riudoms,Llevat,0,0,0,Veterana,0,0,0
+Cd Riudoms,Rodriguez,Portero,7,7,4,356,0,0,0,rodriguez,cd riudoms,"Rodriguez
+Alba Rodriguez Gomez",375969,cd-riudoms,Rodriguez,0,0,0,Veterana,0,1,0.571428571
+Cd Riudoms,Xènia Casadó,Portero,7,6,6,540,-34,0,0,xenia casado,cd riudoms,,,,,0,0,0,Desconocida,5.666666667,0.857142857,1
+Cd Riudoms,Andrea Vernet,Defensa,0,0,0,0,0,0,0,andrea vernet,cd riudoms,"Andrea Vernet
+Andrea Vernet Gudi",321138,cd-riudoms,Andrea Vernet,0,0,0,Veterana,0,0,0
+Cd Riudoms,Clara,Centrocampista,0,0,0,0,0,0,0,clara,cd riudoms,Clara,200284,cd-riudoms,Clara,0,0,0,Veterana,0,0,0
+Cd Riudoms,Maribel,Delantero,0,0,0,0,0,0,0,maribel,cd riudoms,"Maribel
+Maria Isabel  Martin Jurado",77228,cd-riudoms,Maribel,0,0,0,Veterana,0,0,0
+Cd Riudoms,Acero,,13,13,10,773,1,3,0,acero,cd riudoms,"Acero
+Lucia Acero Baya",378296,cd-riudoms,Acero,0.116429495,0.349288486,0,Veterana,0,1,0.769230769
+Cd Riudoms,Aina Fernández,,9,9,9,766,0,3,0,aina fernandez,cd riudoms,"Aina FernÃ¡ndez
+Aina FernÃ¡ndez Rivero",651259,cd-riudoms,Aina FernÃ¡ndez,0,0.352480418,0,Joven,0,1,1
+Cd Riudoms,Ana Gargallo,,13,12,12,1045,1,0,0,ana gargallo,cd riudoms,"Ana Gargallo
+Ana Gargallo VÃ¡zquez",659749,cd-riudoms,Ana Gargallo,0.086124402,0,0,Joven,0,0.923076923,1
+Cd Riudoms,Ana Ines Morales,,15,15,15,1191,1,0,0,ana ines morales,cd riudoms,Ana Ines Morales,651312,cd-riudoms,Ana Ines Morales,0.075566751,0,0,Joven,0,1,1
+Cd Riudoms,Andrea Moltó,,9,8,6,600,0,1,0,andrea molto,cd riudoms,,,,,0,0.15,0,Desconocida,0,0.888888889,0.75
+Cd Riudoms,Anna Brunets,,3,3,0,71,0,0,0,anna brunets,cd riudoms,"Anna Brunets
+Anna Brunets",679823,cd-riudoms,Anna Brunets,0,0,0,Joven,0,1,0
+Cd Riudoms,Barbera,,0,0,0,0,0,0,0,barbera,cd riudoms,"Barbera
+Esther Barbera Paz",357059,cd-riudoms,Barbera,0,0,0,Veterana,0,0,0
+Cd Riudoms,Basterrechea,,0,0,0,0,0,0,0,basterrechea,cd riudoms,"Basterrechea
+Domibanek Garazi Basterrechea Unamuno",357072,cd-riudoms,Basterrechea,0,0,0,Veterana,0,0,0
+Cd Riudoms,Basterrechea,,0,0,0,0,0,0,0,basterrechea,cd riudoms,"Basterrechea
+Domibanek Garazi Basterrechea Unamuno",357063,cd-riudoms,Basterrechea,0,0,0,Veterana,0,0,0
+Cd Riudoms,Becerra,,0,0,0,0,0,0,0,becerra,cd riudoms,"Becerra
+Cristina Becerra Grifoll",357072,cd-riudoms,Becerra,0,0,0,Veterana,0,0,0
+Cd Riudoms,Bet Vidal,,12,9,6,540,0,3,0,bet vidal,cd riudoms,"Bet Vidal
+Bet Vidal Garcia",357063,cd-riudoms,Bet Vidal,0,0.5,0,Veterana,0,0.75,0.666666667
+Cd Riudoms,Calderón,,0,0,0,0,0,0,0,calderon,cd riudoms,,353313,,,0,0,0,Veterana,0,0,0
+Cd Riudoms,Claudia Guisasola,,7,6,3,337,0,0,0,claudia guisasola,cd riudoms,"Claudia Guisasola
+Claudia Guisasola Dominguez",562734,cd-riudoms,Claudia Guisasola,0,0,0,Intermedia,0,0.857142857,0.5
+Cd Riudoms,Clàudia Miguel,,14,14,13,946,0,2,0,claudia miguel,cd riudoms,,,,,0,0.190274841,0,Desconocida,0,1,0.928571429
+Cd Riudoms,Cristina Abreu,,5,5,2,283,0,0,0,cristina abreu,cd riudoms,"Cristina Abreu
+Cristina Abreu Romeu",668711,cd-riudoms,Cristina Abreu,0,0,0,Joven,0,1,0.4
+Cd Riudoms,Cristina Aponte,,12,12,10,916,1,1,0,cristina aponte,cd riudoms,Cristina Aponte,,cd-riudoms,Cristina Aponte,0.098253275,0.098253275,0,Desconocida,0,1,0.833333333
+Cd Riudoms,Daniela Javega,,0,0,0,0,0,0,0,daniela javega,cd riudoms,"Daniela Javega
+Daniela Javega Rodriguez",687073,cd-riudoms,Daniela Javega,0,0,0,Joven,0,0,0
+Cd Riudoms,Dueso,,0,0,0,0,0,0,0,dueso,cd riudoms,"Dueso
+Mar Dueso GÃ³mez",597015,cd-riudoms,Dueso,0,0,0,Intermedia,0,0,0
+Cd Riudoms,Garrit,,0,0,0,0,0,0,0,garrit,cd riudoms,"Garrit
+Laura Garrit EspaÃ±ol",597012,cd-riudoms,Garrit,0,0,0,Intermedia,0,0,0
+Cd Riudoms,Gemma Sole,,5,5,4,347,0,0,0,gemma sole,cd riudoms,"Gemma Sole
+Gemma Sole Segarra",350181,cd-riudoms,Gemma Sole,0,0,0,Veterana,0,1,0.8
+Cd Riudoms,Gina Valfagó,,2,2,1,134,0,0,0,gina valfago,cd riudoms,,357073,,,0,0,0,Veterana,0,1,0.5
+Cd Riudoms,Jordina Gallardo,,6,4,0,151,0,0,0,jordina gallardo,cd riudoms,"Jordina Gallardo
+Jordina Gallardo Purciolas",679822,cd-riudoms,Jordina Gallardo,0,0,0,Joven,0,0.666666667,0
+Cd Riudoms,Julia Cabre,,0,0,0,0,0,0,0,julia cabre,cd riudoms,"Julia Cabre
+Julia Cabre Alonso",,cd-riudoms,Julia Cabre,0,0,0,Desconocida,0,0,0
+Cd Riudoms,Laia Lladó,,5,5,3,278,0,0,0,laia llado,cd riudoms,,668710,,,0,0,0,Joven,0,1,0.6
+Cd Riudoms,Laia Moya,,2,1,0,44,0,0,0,laia moya,cd riudoms,"Laia Moya
+Laia Moya Vinaixa",597013,cd-riudoms,Laia Moya,0,0,0,Intermedia,0,0.5,0
+Cd Riudoms,Laura Lladó,,4,3,1,142,0,0,0,laura llado,cd riudoms,,,,,0,0,0,Desconocida,0,0.75,0.333333333
+Cd Riudoms,Liria,,0,0,0,0,0,0,0,liria,cd riudoms,"Liria
+Marta Liria LÃ³pez",694664,cd-riudoms,Liria,0,0,0,Joven,0,0,0
+Cd Riudoms,Lorena Camuñas,,14,14,13,1091,0,3,0,lorena camunas,cd riudoms,,,,,0,0.247479377,0,Desconocida,0,1,0.928571429
+Cd Riudoms,Luana Ribeiro,,14,9,6,399,0,0,0,luana ribeiro,cd riudoms,"Luana Ribeiro
+Luana Ribeiro Tomatas Inacio",350182,cd-riudoms,Luana Ribeiro,0,0,0,Veterana,0,0.642857143,0.666666667
+Cd Riudoms,Lucha Hurtado,,0,0,0,0,0,0,0,lucha hurtado,cd riudoms,"Lucha Hurtado
+Sarai Lucha Hurtado",,cd-riudoms,Lucha Hurtado,0,0,0,Desconocida,0,0,0
+Cd Riudoms,Lucia Oller,,8,8,8,702,0,1,0,lucia oller,cd riudoms,"Lucia Oller
+Lucia Oller Garcia",393040,cd-riudoms,Lucia Oller,0,0.128205128,0,Veterana,0,1,1
+Cd Riudoms,Margalef,,0,0,0,0,0,0,0,margalef,cd riudoms,"Margalef
+Isabel Margalef MoseguÃ­",357065,cd-riudoms,Margalef,0,0,0,Veterana,0,0,0
+Cd Riudoms,Mas,,0,0,0,0,0,0,0,mas,cd riudoms,"Mas
+Laura Mas Berenguer",651260,cd-riudoms,Mas,0,0,0,Joven,0,0,0
+Cd Riudoms,Méndez,,0,0,0,0,0,0,0,mendez,cd riudoms,,357064,,,0,0,0,Veterana,0,0,0
+Cd Riudoms,Navarro,,0,0,0,0,0,0,0,navarro,cd riudoms,"Navarro
+Laura Navarro Oller",379129,cd-riudoms,Navarro,0,0,0,Veterana,0,0,0
+Cd Riudoms,Navarro,,0,0,0,0,0,0,0,navarro,cd riudoms,"Navarro
+Laura Navarro Oller",,cd-riudoms,Navarro,0,0,0,Desconocida,0,0,0
+Cd Riudoms,Nuria Descarrega,,0,0,0,0,0,0,0,nuria descarrega,cd riudoms,"Nuria Descarrega
+Nuria Descarrega Ortiz",377229,cd-riudoms,Nuria Descarrega,0,0,0,Veterana,0,0,0
+Cd Riudoms,Olivera,,0,0,0,0,0,0,0,olivera,cd riudoms,"Olivera
+Ainhoa Olivera FernÃ¡ndez",357066,cd-riudoms,Olivera,0,0,0,Veterana,0,0,0
+Cd Riudoms,Olivia Torrents,,8,6,4,436,0,0,0,olivia torrents,cd riudoms,"Olivia Torrents
+Olivia Torrents Castellanos",377229,cd-riudoms,Olivia Torrents,0,0,0,Veterana,0,0.75,0.666666667
+Cd Riudoms,Pablo,,0,0,0,0,0,0,0,pablo,cd riudoms,"Pablo
+Maria Pablo Longan",357066,cd-riudoms,Pablo,0,0,0,Veterana,0,0,0
+Cd Riudoms,Roca,,0,0,0,0,0,0,0,roca,cd riudoms,"Roca
+Sara Roca SigÃ¼enza",562733,cd-riudoms,Roca,0,0,0,Intermedia,0,0,0
+Cd Riudoms,Rocio Merino,,3,1,0,40,0,0,0,rocio merino,cd riudoms,"Rocio Merino
+Rocio Merino Enrique",353863,cd-riudoms,Rocio Merino,0,0,0,Veterana,0,0.333333333,0
+Cd Riudoms,Rodriguez,Portero,7,7,4,356,0,0,0,rodriguez,cd riudoms,"Rodriguez
+Alba Rodriguez Gomez",659753,cd-riudoms,Rodriguez,0,0,0,Joven,0,1,0.571428571
+Cd Riudoms,Somavilla,,2,0,0,0,0,0,0,somavilla,cd riudoms,"Somavilla
+Paula Somavilla GÃ¶ke",350183,cd-riudoms,Somavilla,0,0,0,Veterana,0,0,0
+Cd Riudoms,Xià Beltran,,15,14,10,715,0,0,0,xia beltran,cd riudoms,,350197,,,0,0,0,Veterana,0,0.933333333,0.714285714
+Ce Europa B,Ainhoa,Portero,13,11,11,945,-9,1,0,ainhoa,ce europa b,Ainhoa,662833,ce-europa-b,Ainhoa,0,0.095238095,0,Joven,0.857142857,0.846153846,1
+Ce Europa B,Paula,Portero,9,5,5,450,-3,0,0,paula,ce europa b,"Paula
+Paula GonzÃ¡lez Amores",375969,ce-europa-b,Paula,0,0,0,Veterana,0.6,0.555555556,1
+Ce Europa B,Alma Ros,Defensa,15,15,12,1068,2,1,0,alma ros,ce europa b,"Alma Ros
+Alma Ros Mogas",357058,ce-europa-b,Alma Ros,0.168539326,0.084269663,0,Veterana,0,1,0.8
+Ce Europa B,Carla,Defensa,14,12,6,506,1,3,0,carla,ce europa b,"Carla
+Carla Autero Gonzalez",,ce-europa-b,Carla,0.177865613,0.533596838,0,Desconocida,0,0.857142857,0.5
+Ce Europa B,Martina,Defensa,16,16,14,1261,2,0,0,martina,ce europa b,"Martina
+Martina Del Rio Anoro",491481,ce-europa-b,Martina,0.142743854,0,0,Intermedia,0,1,0.875
+Ce Europa B,Mar Couceiro,Media punta,15,15,9,840,1,0,1,mar couceiro,ce europa b,"Mar Couceiro
+Mar Couceiro Zamora",491518,ce-europa-b,Mar Couceiro,0.107142857,0,0.107142857,Intermedia,0,1,0.6
+Ce Europa B,Naiara Lemos,Delantero,15,15,14,1294,0,1,0,naiara lemos,ce europa b,"Naiara Lemos
+Naiara Lemos Caicedo",504192,ce-europa-b,Naiara Lemos,0,0.069551777,0,Intermedia,0,1,0.933333333
+Ce Europa B,Alba,,6,6,3,266,1,1,0,alba,ce europa b,"Alba
+Alba Perez Haro",371561,ce-europa-b,Alba,0.338345865,0.338345865,0,Veterana,0,1,0.5
+Ce Europa B,Ana Isabel Chamorro,,11,9,5,474,0,1,0,ana isabel chamorro,ce europa b,"Ana Isabel Chamorro
+Ana Isabel Chamorro Garrido",588047,ce-europa-b,Ana Isabel Chamorro,0,0.189873418,0,Intermedia,0,0.818181818,0.555555556
+Ce Europa B,Bruna Solà,,1,0,0,0,0,0,0,bruna sola,ce europa b,Bruna SolÃ,588083,ce-europa-b,Bruna SolÃ,0,0,0,Intermedia,0,0,0
+Ce Europa B,Carla Ber,,8,8,6,536,2,1,0,carla ber,ce europa b,"Carla Ber
+Carla Ber Martinez",588045,ce-europa-b,Carla Ber,0.335820896,0.167910448,0,Intermedia,0,1,0.75
+Ce Europa B,Clara Vendrell,,14,14,13,1202,1,2,0,clara vendrell,ce europa b,"Clara Vendrell
+Clara Vendrell Soms",611721,ce-europa-b,Clara Vendrell,0.074875208,0.149750416,0,Joven,0,1,0.928571429
+Ce Europa B,Daniela Del,,9,1,0,45,0,0,0,daniela del,ce europa b,"Daniela Del
+Daniela Del Rio Anoro",651306,ce-europa-b,Daniela Del,0,0,0,Joven,0,0.111111111,0
+Ce Europa B,Egea,,15,15,7,643,1,2,0,egea,ce europa b,"Egea
+Berta Egea Lopez",694663,ce-europa-b,Egea,0.139968896,0.279937792,0,Joven,0,1,0.466666667
+Ce Europa B,Irina,,14,13,9,716,0,2,0,irina,ce europa b,"Irina
+Irina Mestre Closa",668702,ce-europa-b,Irina,0,0.251396648,0,Joven,0,0.928571429,0.692307692
+Ce Europa B,Jessica Igbinadolor Martín,,1,1,0,68,0,1,0,jessica igbinadolor martin,ce europa b,,659743,,,0,1.323529412,0,Joven,0,1,0
+Ce Europa B,Maria Botello,,13,7,4,305,0,0,0,maria botello,ce europa b,"Maria Botello
+Maria Botello Marchena",588048,ce-europa-b,Maria Botello,0,0,0,Intermedia,0,0.538461538,0.571428571
+Ce Europa B,Marina Carro,,16,16,15,1361,1,4,0,marina carro,ce europa b,Marina Carro,379100,ce-europa-b,Marina Carro,0.066127847,0.264511389,0,Veterana,0,1,0.9375
+Ce Europa B,Mariona Gàmez,,14,13,11,945,1,1,0,mariona gamez,ce europa b,,599059,,,0.095238095,0.095238095,0,Intermedia,0,0.928571429,0.846153846
+Ce Europa B,Marta López,,4,4,2,241,0,0,0,marta lopez,ce europa b,,,,,0,0,0,Desconocida,0,1,0.5
+Ce Europa B,Martina,Defensa,16,16,14,1261,2,0,0,martina,ce europa b,"Martina
+Martina Del Rio Anoro",659744,ce-europa-b,Martina,0.142743854,0,0,Joven,0,1,0.875
+Ce Europa B,Montserrat Amella,,12,11,5,501,3,1,0,montserrat amella,ce europa b,Montserrat Amella,651304,ce-europa-b,Montserrat Amella,0.538922156,0.179640719,0,Joven,0,0.916666667,0.454545455
+Ce Europa B,Nil Alcón,,1,1,1,79,0,1,0,nil alcon,ce europa b,,,,,0,1.139240506,0,Desconocida,0,1,1
+Ce Europa B,Paula Arcos,,12,12,8,626,2,2,0,paula arcos,ce europa b,"Paula Arcos
+Paula Arcos Banach",,ce-europa-b,Paula Arcos,0.287539936,0.287539936,0,Desconocida,0,1,0.666666667
+Ce Europa B,Rubija Elizabete Gica,,12,5,4,295,0,0,0,rubija elizabete gica,ce europa b,"Rubija Elizabete Gica
+Rubija Elizabete Gica",588047,ce-europa-b,Rubija Elizabete Gica,0,0,0,Intermedia,0,0.416666667,0.8
+Ce Europa B,Ruby Grace Jones,,2,2,0,38,1,0,0,ruby grace jones,ce europa b,"Ruby Grace Jones
+Ruby Grace Jones",651315,ce-europa-b,Ruby Grace Jones,2.368421053,0,0,Joven,0,1,0
+Ce Europa B,Sonia Moya,,13,6,4,381,0,1,0,sonia moya,ce europa b,"Sonia Moya
+Sonia Moya Sotelo",,ce-europa-b,Sonia Moya,0,0.236220472,0,Desconocida,0,0.461538462,0.666666667
+Ce Europa B,Victoria Maria Franco,,11,11,7,648,0,3,0,victoria maria franco,ce europa b,"Victoria Maria Franco
+Victoria Maria Franco Rom",651307,ce-europa-b,Victoria Maria Franco,0,0.416666667,0,Joven,0,1,0.636363636
+Ce Mataro,Mar Cot,Portero,15,10,10,899,-12,0,0,mar cot,ce mataro,"Mar Cot
+Mar Cot Amezcua",662827,ce-mataro,Mar Cot,0,0,0,Joven,1.201334816,0.666666667,1
+Ce Mataro,Sara García,Portero,14,7,6,511,-4,0,0,sara garcia,ce mataro,,668707,,,0,0,0,Joven,0.704500978,0.5,0.857142857
+Ce Mataro,Laia Marti,Defensa,9,9,8,745,1,1,0,laia marti,ce mataro,"Laia Marti
+Laia Marti Parra",651308,ce-mataro,Laia Marti,0.120805369,0.120805369,0,Joven,0,1,0.888888889
+Ce Mataro,Pascu,Defensa,14,14,8,839,0,1,0,pascu,ce mataro,"Pascu
+Anna Pascual Ramirez",651309,ce-mataro,Pascu,0,0.10727056,0,Joven,0,1,0.571428571
+Ce Mataro,Ariana,Centrocampista,0,0,0,0,0,0,0,ariana,ce mataro,Ariana,647705,ce-mataro,Ariana,0,0,0,Joven,0,0,0
+Ce Mataro,Fuster,Centrocampista,16,16,16,1403,2,3,0,fuster,ce mataro,Fuster,,ce-mataro,Fuster,0.128296507,0.192444761,0,Desconocida,0,1,1
+Ce Mataro,Celia,Delantero,15,15,11,1093,4,0,0,celia,ce mataro,"Celia
+Celia LÃ³pez Langas",651297,ce-mataro,Celia,0.32936871,0,0,Joven,0,1,0.733333333
+Ce Mataro,Aitana Colobrans,,0,0,0,0,0,0,0,aitana colobrans,ce mataro,"Aitana Colobrans 
+Aitana  Colobrans Sanjuan",320543,ce-mataro,Aitana Colobrans ,0,0,0,Veterana,0,0,0
+Ce Mataro,Anna Castejón,,13,11,8,697,0,2,0,anna castejon,ce mataro,,259550,,,0,0.258249641,0,Veterana,0,0.846153846,0.727272727
+Ce Mataro,Aya,,12,10,3,280,2,0,0,aya,ce mataro,"Aya 
+Aya Ali Rached El Kanfoudi",379090,ce-mataro,Aya ,0.642857143,0,0,Veterana,0,0.833333333,0.3
+Ce Mataro,Berta Batalla,,2,2,0,38,0,0,0,berta batalla,ce mataro,"Berta Batalla
+Berta Batalla Estrada",491621,ce-mataro,Berta Batalla,0,0,0,Intermedia,0,1,0
+Ce Mataro,Berta Riera,,15,13,7,628,2,1,0,berta riera,ce mataro,"Berta Riera
+Berta Riera Ingles",524166,ce-mataro,Berta Riera,0.286624204,0.143312102,0,Intermedia,0,0.866666667,0.538461538
+Ce Mataro,Claudia Garcia,,12,12,11,921,5,5,0,claudia garcia,ce mataro,Claudia Garcia,,ce-mataro,Claudia Garcia,0.488599349,0.488599349,0,Desconocida,0,1,0.916666667
+Ce Mataro,Elsa Fernandez,,14,13,6,584,0,0,0,elsa fernandez,ce mataro,"Elsa Fernandez
+Elsa Fernandez Hernandez",662831,ce-mataro,Elsa Fernandez,0,0,0,Joven,0,0.928571429,0.461538462
+Ce Mataro,Jasmina Chamarro,,1,1,0,5,0,1,0,jasmina chamarro,ce mataro,"Jasmina Chamarro
+Jasmina Chamarro Martinez",662841,ce-mataro,Jasmina Chamarro,0,18,0,Joven,0,1,0
+Ce Mataro,Laia Gili,,4,2,2,117,0,0,0,laia gili,ce mataro,"Laia Gili
+Laia Gili Olive",651300,ce-mataro,Laia Gili,0,0,0,Joven,0,0.5,1
+Ce Mataro,Malena,,0,0,0,0,0,0,0,malena,ce mataro,"Malena
+Malena Martinez",659737,ce-mataro,Malena,0,0,0,Joven,0,0,0
+Ce Mataro,Maria Celeste Pazos,,11,11,7,633,0,3,0,maria celeste pazos,ce mataro,"Maria Celeste Pazos
+Maria Celeste Pazos Correa",659738,ce-mataro,Maria Celeste Pazos,0,0.426540284,0,Joven,0,1,0.636363636
+Ce Mataro,Maria Sanchez,,6,4,3,218,0,0,0,maria sanchez,ce mataro,"Maria Sanchez
+Maria Sanchez Vilaro",604890,ce-mataro,Maria Sanchez,0,0,0,Joven,0,0.666666667,0.75
+Ce Mataro,Martina Rodes,,15,15,15,1156,1,1,0,martina rodes,ce mataro,"Martina Rodes
+Martina Rodes NoguÃ©",647706,ce-mataro,Martina Rodes,0.077854671,0.077854671,0,Joven,0,1,1
+Ce Mataro,Martinez,,9,8,6,610,1,1,0,martinez,ce mataro,"Martinez
+Guadalupe Martinez",353057,ce-mataro,Martinez,0.147540984,0.147540984,0,Veterana,0,0.888888889,0.75
+Ce Mataro,Mireia Girones,,11,6,4,358,0,1,0,mireia girones,ce mataro,"Mireia Girones
+Mireia Girones Maricalva",662830,ce-mataro,Mireia Girones,0,0.251396648,0,Joven,0,0.545454545,0.666666667
+Ce Mataro,Monica Orteu,,13,13,13,1142,2,1,0,monica orteu,ce mataro,"Monica Orteu
+Monica Orteu Pons",647707,ce-mataro,Monica Orteu,0.157618214,0.078809107,0,Joven,0,1,1
+Ce Mataro,Nerea Torre,,15,15,14,1177,2,0,0,nerea torre,ce mataro,"Nerea Torre
+Nerea Torre Cabanillas",651298,ce-mataro,Nerea Torre,0.152931181,0,0,Joven,0,1,0.933333333
+Ce Mataro,Paula Aguilera,,4,2,0,31,0,0,0,paula aguilera,ce mataro,"Paula Aguilera
+Paula Aguilera GÃ³mez",353281,ce-mataro,Paula Aguilera,0,0,0,Veterana,0,0.5,0
+Ce Mataro,Paula Sanz,,11,7,2,219,0,0,0,paula sanz,ce mataro,"Paula Sanz
+Paula Sanz Inglada",567930,ce-mataro,Paula Sanz,0,0,0,Intermedia,0,0.636363636,0.285714286
+Ce Mataro,Sandra Pons,,12,12,9,772,3,0,0,sandra pons,ce mataro,"Sandra Pons
+Sandra Pons Flum",659736,ce-mataro,Sandra Pons,0.349740933,0,0,Joven,0,1,0.75
+Ce Seagull,Forns Iglesias,Portero,10,5,5,450,-3,0,0,forns iglesias,ce seagull,"Forns Iglesias
+Andrea Forns Iglesias",651301,ce-seagull,Forns Iglesias,0,0,0,Joven,0.6,0.5,1
+Ce Seagull,Lujan Butte,Portero,7,2,2,180,-6,0,0,lujan butte,ce seagull,"Lujan Butte
+Deborah Lujan Butte",604892,ce-seagull,Lujan Butte,0,0,0,Joven,3,0.285714286,1
+Ce Seagull,Anna Lucia Tan,Portero,2,2,2,180,0,0,0,anna lucia tan,ce seagull,"Anna Lucia Tan
+Anna Lucia Tan Rivera",662828,ce-seagull,Anna Lucia Tan,0,0,0,Joven,0,1,1
+Ce Seagull,Laura Sanchez,Líbero,2,1,0,19,0,0,0,laura sanchez,ce seagull,"Laura Sanchez
+Laura Sanchez Montolio",604888,ce-seagull,Laura Sanchez,0,0,0,Joven,0,0.5,0
+Ce Seagull,PUYI,Defensa,15,14,14,1227,0,1,0,puyi,ce seagull,"PUYI
+Ane Perez Echeverria",555139,ce-seagull,PUYI,0,0.073349633,0,Intermedia,0,0.933333333,1
+Ce Seagull,Queralt,Defensa,6,6,3,309,0,1,0,queralt,ce seagull,"Queralt
+Queralt Gomez Sariol",557102,ce-seagull,Queralt,0,0.291262136,0,Intermedia,0,1,0.5
+Ce Seagull,Laura Linares,Centrocampista,4,4,4,306,0,3,0,laura linares,ce seagull,"Laura Linares
+Laura Linares Lorenzo",693621,ce-seagull,Laura Linares,0,0.882352941,0,Joven,0,1,1
+Ce Seagull,Miriam,Centrocampista,0,0,0,0,0,0,0,miriam,ce seagull,Miriam,693622,ce-seagull,Miriam,0,0,0,Joven,0,0,0
+Ce Seagull,Zaira,Centrocampista,0,0,0,0,0,0,0,zaira,ce seagull,Zaira,200204,ce-seagull,Zaira,0,0,0,Veterana,0,0,0
+Ce Seagull,ALICIA HERNANDEZ,Delantero,14,13,3,489,3,2,0,alicia hernandez,ce seagull,"ALICIA HERNANDEZ
+Alicia Hernandez Barea",320541,ce-seagull,ALICIA HERNANDEZ,0.552147239,0.36809816,0,Veterana,0,0.928571429,0.230769231
+Ce Seagull,Anna Rausi,Delantero,12,12,11,971,3,0,0,anna rausi,ce seagull,"Anna Rausi
+Anna Rausi Boixader",558247,ce-seagull,Anna Rausi,0.278063852,0,0,Intermedia,0,1,0.916666667
+Ce Seagull,Frochoso,Delantero,9,9,8,548,2,2,0,frochoso,ce seagull,"Frochoso
+Nuria Frochoso Soriano",199929,ce-seagull,Frochoso,0.328467153,0.328467153,0,Veterana,0,1,0.888888889
+Ce Seagull,Yosse,Delantero,15,15,13,1068,4,3,0,yosse,ce seagull,"Yosse
+Josselin Gonzalez Canovas",200002,ce-seagull,Yosse,0.337078652,0.252808989,0,Veterana,0,1,0.866666667
+Ce Seagull,Alberola,,5,4,4,342,0,0,0,alberola,ce seagull,"Alberola
+Sandra Alberola Gil",345533,ce-seagull,Alberola,0,0,0,Veterana,0,0.8,1
+Ce Seagull,Ana Georgina Colomina,,1,1,0,3,0,0,0,ana georgina colomina,ce seagull,"Ana Georgina Colomina
+Ana Georgina Colomina Gutierrez",555142,ce-seagull,Ana Georgina Colomina,0,0,0,Intermedia,0,1,0
+Ce Seagull,Carla Esteban,,16,16,13,944,5,1,0,carla esteban,ce seagull,Carla Esteban,382171,ce-seagull,Carla Esteban,0.476694915,0.095338983,0,Veterana,0,1,0.8125
+Ce Seagull,Claudia Marti,,16,15,10,962,0,1,0,claudia marti,ce seagull,"Claudia Marti
+Claudia Marti Fanlo",320546,ce-seagull,Claudia Marti,0,0.093555094,0,Veterana,0,0.9375,0.666666667
+Ce Seagull,Estrada,,16,14,12,1040,1,0,0,estrada,ce seagull,"Estrada
+Queralt Ping Estrada Rabert",353245,ce-seagull,Estrada,0.086538462,0,0,Veterana,0,0.875,0.857142857
+Ce Seagull,Eva Maria Diez,,4,4,4,360,0,2,0,eva maria diez,ce seagull,"Eva Maria Diez
+Eva Maria Diez Gimenez",662837,ce-seagull,Eva Maria Diez,0,0.5,0,Joven,0,1,1
+Ce Seagull,Irene Melero,,11,7,7,630,0,1,0,irene melero,ce seagull,"Irene Melero
+Irene Melero Diez",647710,ce-seagull,Irene Melero,0,0.142857143,0,Joven,0,0.636363636,1
+Ce Seagull,Laura Gordo,,1,0,0,0,0,0,0,laura gordo,ce seagull,"Laura Gordo
+Laura Gordo Tamayo",647711,ce-seagull,Laura Gordo,0,0,0,Joven,0,0,0
+Ce Seagull,Lorena Kathiuska Mejia,,1,0,0,0,0,0,0,lorena kathiuska mejia,ce seagull,"Lorena Kathiuska Mejia
+Lorena Kathiuska Mejia Jaime",353296,ce-seagull,Lorena Kathiuska Mejia,0,0,0,Veterana,0,0,0
+Ce Seagull,Mar Garcia,,16,16,13,1236,0,2,0,mar garcia,ce seagull,Mar Garcia,687074,ce-seagull,Mar Garcia,0,0.145631068,0,Joven,0,1,0.8125
+Ce Seagull,Mar Garcia Quijada,,10,10,8,717,1,1,0,mar garcia quijada,ce seagull,"Mar Garcia Quijada
+Mar Garcia Quijada Sanchez",647709,ce-seagull,Mar Garcia Quijada,0.125523013,0.125523013,0,Joven,0,1,0.8
+Ce Seagull,Maria Lopez,,9,4,0,38,0,0,0,maria lopez,ce seagull,"Maria Lopez
+Maria Lopez Jimenez",687075,ce-seagull,Maria Lopez,0,0,0,Joven,0,0.444444444,0
+Ce Seagull,Maria Romero,,11,11,4,425,1,1,0,maria romero,ce seagull,"Maria Romero
+Maria Romero Juarez",692386,ce-seagull,Maria Romero,0.211764706,0.211764706,0,Joven,0,1,0.363636364
+Ce Seagull,Mariah Rose Fredericks,,4,3,0,38,0,0,0,mariah rose fredericks,ce seagull,"Mariah Rose Fredericks
+Mariah Rose Fredericks Fredericks",575929,ce-seagull,Mariah Rose Fredericks,0,0,0,Intermedia,0,0.75,0
+Ce Seagull,Nerea Gomez,,5,5,5,435,1,0,0,nerea gomez,ce seagull,"Nerea Gomez
+Nerea Gomez Miranda",580980,ce-seagull,Nerea Gomez,0.206896552,0,0,Intermedia,0,1,1
+Ce Seagull,Noa Bueno,,3,3,0,78,0,0,0,noa bueno,ce seagull,"Noa Bueno
+Noa Bueno Del RÃ­o",647712,ce-seagull,Noa Bueno,0,0,0,Joven,0,1,0
+Ce Seagull,Rubio,,12,11,11,893,0,2,1,rubio,ce seagull,Rubio,562727,ce-seagull,Rubio,0,0.201567749,0.100783875,Intermedia,0,0.916666667,1
+Ce Seagull,Sanz,,14,12,7,671,0,1,0,sanz,ce seagull,"Sanz
+Clara Sanz Carranza",669914,ce-seagull,Sanz,0,0.134128167,0,Joven,0,0.857142857,0.583333333
+Ce Seagull,Torras,,13,13,10,887,0,0,0,torras,ce seagull,"Torras
+Gemma Torras Matas",652395,ce-seagull,Torras,0,0,0,Joven,0,1,0.769230769
+Ce Seagull,Viktoria Adrianova Yavorova,,6,6,2,216,1,0,0,viktoria adrianova yavorova,ce seagull,"Viktoria Adrianova Yavorova
+Viktoria Adrianova Yavorova Yavorova",687068,ce-seagull,Viktoria Adrianova Yavorova,0.416666667,0,0,Joven,0,1,0.333333333
+Cf Igualada,Irina Barron,Portero,16,10,10,900,-2,2,0,irina barron,cf igualada,"Irina Barron
+Irina Barron Gomez",353319,cf-igualada,Irina Barron,0,0.2,0,Veterana,0.2,0.625,1
+Cf Igualada,Queralt Iglesias,Portero,14,6,6,540,-12,0,0,queralt iglesias,cf igualada,"Queralt Iglesias
+Queralt Iglesias Pascual",353200,cf-igualada,Queralt Iglesias,0,0,0,Veterana,2,0.428571429,1
+Cf Igualada,Aina,Defensa,3,3,3,226,1,0,0,aina,cf igualada,Aina,353053,cf-igualada,Aina,0.398230088,0,0,Veterana,0,1,1
+Cf Igualada,Bernadi,Media punta,15,15,8,848,5,1,1,bernadi,cf igualada,Bernadi,687069,cf-igualada,Bernadi,0.530660377,0.106132075,0.106132075,Joven,0,1,0.533333333
+Cf Igualada,Maria,Pivote Defensivo,11,11,11,737,1,0,0,maria,cf igualada,"Maria
+Maria  Cortina Ãlvarez",555090,cf-igualada,Maria,0.122116689,0,0,Intermedia,0,1,1
+Cf Igualada,Stefany,Delantero,6,6,6,434,3,0,0,stefany,cf igualada,"Stefany
+Stefany Ferrer Van Ginkel",562712,cf-igualada,Stefany,0.622119816,0,0,Intermedia,0,1,1
+Cf Igualada,Ana Sanchez,,14,12,9,834,0,3,0,ana sanchez,cf igualada,"Ana Sanchez
+Ana Sanchez TriviÃ±o",336313,cf-igualada,Ana Sanchez,0,0.323741007,0,Veterana,0,0.857142857,0.75
+Cf Igualada,Bohigas,,16,15,8,708,8,0,0,bohigas,cf igualada,Bohigas,353250,cf-igualada,Bohigas,1.016949153,0,0,Veterana,0,0.9375,0.533333333
+Cf Igualada,Carlota Mollá,,14,11,4,468,1,2,0,carlota molla,cf igualada,"Carlota MollÃ¡
+Carlota MollÃ  Torrellardona",523854,cf-igualada,Carlota MollÃ¡,0.192307692,0.384615385,0,Intermedia,0,0.785714286,0.363636364
+Cf Igualada,Gina Serra,,14,12,8,829,0,0,0,gina serra,cf igualada,"Gina Serra
+Gina Serra Ortonobas",369422,cf-igualada,Gina Serra,0,0,0,Veterana,0,0.857142857,0.666666667
+Cf Igualada,Gomez,,13,11,6,526,0,0,0,gomez,cf igualada,"Gomez
+Olga Gomez Llort",555089,cf-igualada,Gomez,0,0,0,Intermedia,0,0.846153846,0.545454545
+Cf Igualada,Laia Garcia,,7,7,4,331,1,2,0,laia garcia,cf igualada,"Laia Garcia
+Laia Garcia Trave",360464,cf-igualada,Laia Garcia,0.271903323,0.543806647,0,Veterana,0,1,0.571428571
+Cf Igualada,Laura Bastardas,,16,14,7,663,1,3,0,laura bastardas,cf igualada,"Laura Bastardas
+Laura Bastardas Pernil",461928,cf-igualada,Laura Bastardas,0.135746606,0.407239819,0,Intermedia,0,0.875,0.5
+Cf Igualada,Laura Ribas,,16,16,14,1209,0,1,0,laura ribas,cf igualada,"Laura Ribas
+Laura Ribas Caelles",555086,cf-igualada,Laura Ribas,0,0.074441687,0,Intermedia,0,1,0.875
+Cf Igualada,Maria Poncelas,,1,1,0,18,0,0,0,maria poncelas,cf igualada,"Maria Poncelas
+Maria Poncelas FernÃ¡ndez",353269,cf-igualada,Maria Poncelas,0,0,0,Veterana,0,1,0
+Cf Igualada,Marimon,,13,8,0,80,1,1,0,marimon,cf igualada,"Marimon
+Jana Marimon Martin",555087,cf-igualada,Marimon,1.125,1.125,0,Intermedia,0,0.615384615,0
+Cf Igualada,Nerea Zufia,,16,14,12,1042,0,1,0,nerea zufia,cf igualada,"Nerea Zufia
+Nerea Zufia Soler",557070,cf-igualada,Nerea Zufia,0,0.086372361,0,Intermedia,0,0.875,0.857142857
+Cf Igualada,Nora Ruiz,,16,15,9,812,4,1,0,nora ruiz,cf igualada,"Nora Ruiz
+Nora Ruiz Camacho",555088,cf-igualada,Nora Ruiz,0.443349754,0.110837438,0,Intermedia,0,0.9375,0.6
+Cf Igualada,Ona Montserrat,,16,15,13,1215,4,1,0,ona montserrat,cf igualada,Ona Montserrat,597016,cf-igualada,Ona Montserrat,0.296296296,0.074074074,0,Intermedia,0,0.9375,0.866666667
+Cf Igualada,Ortiz,,16,16,13,1138,3,2,0,ortiz,cf igualada,"Ortiz
+Marta Ortiz Martin",353251,cf-igualada,Ortiz,0.237258348,0.158172232,0,Veterana,0,1,0.8125
+Cf Igualada,Thais Garcia,,1,1,0,16,0,0,0,thais garcia,cf igualada,Thais Garcia,555093,cf-igualada,Thais Garcia,0,0,0,Intermedia,0,1,0
+Cf Igualada,Tomas,,15,14,12,1157,2,3,0,tomas,cf igualada,"Tomas
+Julia Tomas Miret",651264,cf-igualada,Tomas,0.155574762,0.233362143,0,Joven,0,0.933333333,0.857142857
+Cf Igualada,Valentina Camara,,14,14,13,1075,0,2,0,valentina camara,cf igualada,"Valentina Camara
+Valentina Camara Yunes",651263,cf-igualada,Valentina Camara,0,0.16744186,0,Joven,0,1,0.928571429
+Fc Barcelona C,Ariadna Ayats,Portero,11,8,8,715,-4,1,1,ariadna ayats,fc barcelona c,"Ariadna Ayats
+Ariadna Ayats Pujadas",567515,fc-barcelona-c,Ariadna Ayats,0,0.125874126,0.125874126,Intermedia,0.503496503,0.727272727,1
+Fc Barcelona C,Clara,Portero,13,8,7,634,-3,0,0,clara,fc barcelona c,"Clara
+Clara Raspall Copons",582034,fc-barcelona-c,Clara,0,0,0,Intermedia,0.425867508,0.615384615,0.875
+Fc Barcelona C,Rocio Romano,Portero,0,0,0,0,0,0,0,rocio romano,fc barcelona c,Rocio Romano,353055,fc-barcelona-c,Rocio Romano,0,0,0,Veterana,0,0,0
+Fc Barcelona C,Carlota Martins,Lateral Izquierdo,16,16,15,1262,0,3,0,carlota martins,fc barcelona c,"Carlota Martins
+Carlota Martins Ortega",651262,fc-barcelona-c,Carlota Martins,0,0.213946117,0,Joven,0,1,0.9375
+Fc Barcelona C,Júlia Pastor,Central,11,11,5,665,1,5,0,julia pastor,fc barcelona c,,571898,,,0.135338346,0.676691729,0,Intermedia,0,1,0.454545455
+Fc Barcelona C,Beatriz Perez,Centrocampista,4,3,2,144,0,1,0,beatriz perez,fc barcelona c,"Beatriz Perez
+Beatriz Perez Martin",578298,fc-barcelona-c,Beatriz Perez,0,0.625,0,Intermedia,0,0.75,0.666666667
+Fc Barcelona C,Abril Rius,,16,16,16,1396,1,1,0,abril rius,fc barcelona c,Abril Rius,531141,fc-barcelona-c,Abril Rius,0.064469914,0.064469914,0,Intermedia,0,1,1
+Fc Barcelona C,Aissatou Traore,,8,7,5,466,4,1,0,aissatou traore,fc barcelona c,"Aissatou Traore
+Aissatou Traore",604894,fc-barcelona-c,Aissatou Traore,0.772532189,0.193133047,0,Joven,0,0.875,0.714285714
+Fc Barcelona C,Arlet Aguayo,,15,15,13,1202,2,2,0,arlet aguayo,fc barcelona c,"Arlet Aguayo
+Arlet Aguayo FernÃ ndez",,fc-barcelona-c,Arlet Aguayo,0.149750416,0.149750416,0,Desconocida,0,1,0.866666667
+Fc Barcelona C,Avril Serrano,,15,15,12,1196,1,0,0,avril serrano,fc barcelona c,"Avril Serrano
+Avril Serrano Moreno",571943,fc-barcelona-c,Avril Serrano,0.075250836,0,0,Intermedia,0,1,0.8
+Fc Barcelona C,Bruna Quintana,,1,1,0,44,0,0,0,bruna quintana,fc barcelona c,"Bruna Quintana
+Bruna Quintana Ros",647696,fc-barcelona-c,Bruna Quintana,0,0,0,Joven,0,1,0
+Fc Barcelona C,Carmen,,1,0,0,0,0,0,0,carmen,fc barcelona c,"Carmen
+Carmen Odea Baylina",659718,fc-barcelona-c,Carmen,0,0,0,Joven,0,0,0
+Fc Barcelona C,Charlotta Dagny Ohlander,,2,2,1,100,1,0,0,charlotta dagny ohlander,fc barcelona c,"Charlotta Dagny Ohlander
+Charlotta Dagny Ohlander Buxeda",651287,fc-barcelona-c,Charlotta Dagny Ohlander,0.9,0,0,Joven,0,1,0.5
+Fc Barcelona C,Charlotta Dagny Ohlander,,2,2,1,118,0,0,0,charlotta dagny ohlander,fc barcelona c,"Charlotta Dagny Ohlander
+Charlotta Dagny Ohlander Buxeda",651285,fc-barcelona-c,Charlotta Dagny Ohlander,0,0,0,Joven,0,1,0.5
+Fc Barcelona C,Cristina López,,10,7,6,484,0,0,0,cristina lopez,fc barcelona c,,662838,,,0,0,0,Joven,0,0.7,0.857142857
+Fc Barcelona C,Daniela Lopez,,7,6,2,147,0,0,1,daniela lopez,fc barcelona c,"Daniela Lopez
+Daniela Lopez Garcia",659721,fc-barcelona-c,Daniela Lopez,0,0,0.612244898,Joven,0,0.857142857,0.333333333
+Fc Barcelona C,Ivet Franch,,16,16,12,1023,3,2,0,ivet franch,fc barcelona c,"Ivet Franch
+Ivet Franch Blanco",647703,fc-barcelona-c,Ivet Franch,0.263929619,0.175953079,0,Joven,0,1,0.75
+Fc Barcelona C,Jana Muro,,1,0,0,0,0,0,0,jana muro,fc barcelona c,"Jana Muro
+Jana Muro Diaz",647702,fc-barcelona-c,Jana Muro,0,0,0,Joven,0,0,0
+Fc Barcelona C,Laia Cabetas,,11,11,5,578,0,1,0,laia cabetas,fc barcelona c,"Laia Cabetas
+Laia Cabetas Mejias",647703,fc-barcelona-c,Laia Cabetas,0,0.155709343,0,Joven,0,1,0.454545455
+Fc Barcelona C,Laia Guerrero,,16,14,12,668,4,1,0,laia guerrero,fc barcelona c,"Laia Guerrero
+laia Guerrero RodrÃ­guez",647702,fc-barcelona-c,Laia Guerrero,0.538922156,0.134730539,0,Joven,0,0.875,0.857142857
+Fc Barcelona C,Lidia Gibert,,2,2,0,17,0,0,0,lidia gibert,fc barcelona c,"Lidia Gibert
+Lidia Gibert Magdaleno",,fc-barcelona-c,Lidia Gibert,0,0,0,Desconocida,0,1,0
+Fc Barcelona C,Maria Rius,,14,14,8,944,9,1,0,maria rius,fc barcelona c,Maria Rius,659715,fc-barcelona-c,Maria Rius,0.858050847,0.095338983,0,Joven,0,1,0.571428571
+Fc Barcelona C,Maria Torres,,8,4,2,104,0,0,0,maria torres,fc barcelona c,"Maria Torres
+Maria Torres Rosal",647698,fc-barcelona-c,Maria Torres,0,0,0,Joven,0,0.5,0.5
+Fc Barcelona C,Mariona Señé,,12,10,5,370,1,0,0,mariona sene,fc barcelona c,,662840,,,0.243243243,0,0,Joven,0,0.833333333,0.5
+Fc Barcelona C,Martina Romero,,15,15,10,808,0,0,0,martina romero,fc barcelona c,"Martina Romero
+Martina Romero Fabrellas",651288,fc-barcelona-c,Martina Romero,0,0,0,Joven,0,1,0.666666667
+Fc Barcelona C,Montserrat Alabart,,15,15,13,1187,2,0,0,montserrat alabart,fc barcelona c,"Montserrat Alabart
+Montserrat Alabart Balsells",604896,fc-barcelona-c,Montserrat Alabart,0.151642797,0,0,Joven,0,1,0.866666667
+Fc Barcelona C,Nayara Nuñez,,14,14,8,808,1,2,0,nayara nunez,fc barcelona c,,679820,,,0.111386139,0.222772277,0,Joven,0,1,0.571428571
+Fc Barcelona C,Noa Benito,,1,1,0,1,0,0,0,noa benito,fc barcelona c,"Noa Benito
+Noa Benito Bedos",647704,fc-barcelona-c,Noa Benito,0,0,0,Joven,0,1,0
+Fc Barcelona C,Nuria Gonzalez,,6,1,1,90,0,0,0,nuria gonzalez,fc barcelona c,"Nuria Gonzalez
+Nuria Gonzalez Perez",679819,fc-barcelona-c,Nuria Gonzalez,0,0,0,Joven,0,0.166666667,1
+Fc Barcelona C,Siena Giselle Groo,,10,8,4,367,6,0,0,siena giselle groo,fc barcelona c,"Siena Giselle Groo
+Siena Giselle Groo",,fc-barcelona-c,Siena Giselle Groo,1.471389646,0,0,Desconocida,0,0.8,0.5
+Fontsanta Fatjo,Barron Muniente,Portero,11,5,5,450,-5,0,0,barron muniente,fontsanta fatjo,"Barron Muniente
+Neus Barron Muniente",647697,fontsanta-fatjo,Barron Muniente,0,0,0,Joven,1,0.454545455,1
+Fontsanta Fatjo,Meritxell Polo,Portero,16,11,11,990,-12,0,0,meritxell polo,fontsanta fatjo,"Meritxell Polo
+Meritxell Polo Bastida",608127,fontsanta-fatjo,Meritxell Polo,0,0,0,Joven,1.090909091,0.6875,1
+Fontsanta Fatjo,Dani,Defensa,12,12,11,1015,0,3,0,dani,fontsanta fatjo,"Dani
+Daniela Oppitz",,fontsanta-fatjo,Dani,0,0.266009852,0,Desconocida,0,1,0.916666667
+Fontsanta Fatjo,Abril Ramon,Mediocentro Ofensivo,15,15,13,1141,6,3,1,abril ramon,fontsanta fatjo,Abril Ramon,662839,fontsanta-fatjo,Abril Ramon,0.473269062,0.236634531,0.078878177,Joven,0,1,0.866666667
+Fontsanta Fatjo,Abril Rodriguez,Delantero,9,8,5,349,3,0,0,abril rodriguez,fontsanta fatjo,"Abril Rodriguez
+Abril Rodriguez Garcia",647695,fontsanta-fatjo,Abril Rodriguez,0.773638968,0,0,Joven,0,0.888888889,0.625
+Fontsanta Fatjo,Ari,Delantero,3,3,2,208,1,0,0,ari,fontsanta fatjo,"Ari
+Ariadna Ramos Gandia",597004,fontsanta-fatjo,Ari,0.432692308,0,0,Intermedia,0,1,0.666666667
+Fontsanta Fatjo,Ariadna,Delantero,3,3,3,216,0,0,0,ariadna,fontsanta fatjo,Ariadna,559441,fontsanta-fatjo,Ariadna,0,0,0,Intermedia,0,1,1
+Fontsanta Fatjo,Serna,Delantero,12,12,8,745,5,0,0,serna,fontsanta fatjo,"Serna
+Sara Serna Abadias",555177,fontsanta-fatjo,Serna,0.604026846,0,0,Intermedia,0,1,0.666666667
+Fontsanta Fatjo,Aina Ortega,,1,0,0,0,0,0,0,aina ortega,fontsanta fatjo,"Aina Ortega
+Aina Ortega ViÃ±as",588081,fontsanta-fatjo,Aina Ortega,0,0,0,Intermedia,0,0,0
+Fontsanta Fatjo,Aina Román,,4,4,2,229,0,1,0,aina roman,fontsanta fatjo,"Aina RomÃ¡n
+Aina RomÃ¡n Ortega",562752,fontsanta-fatjo,Aina RomÃ¡n,0,0.3930131,0,Intermedia,0,1,0.5
+Fontsanta Fatjo,Blanca Recoder,,14,14,9,757,0,3,0,blanca recoder,fontsanta fatjo,"Blanca Recoder
+Blanca Recoder Garcia",651266,fontsanta-fatjo,Blanca Recoder,0,0.35667107,0,Joven,0,1,0.642857143
+Fontsanta Fatjo,Brooklyn Grace Mclaughlin,,15,15,15,1233,2,6,0,brooklyn grace mclaughlin,fontsanta fatjo,Brooklyn Grace Mclaughlin,375184,fontsanta-fatjo,Brooklyn Grace Mclaughlin,0.145985401,0.437956204,0,Veterana,0,1,1
+Fontsanta Fatjo,Cristina Lopez,,11,9,6,416,0,1,0,cristina lopez,fontsanta fatjo,"Cristina Lopez
+Cristina Sheng Lopez Martinez",302134,fontsanta-fatjo,Cristina Lopez,0,0.216346154,0,Veterana,0,0.818181818,0.666666667
+Fontsanta Fatjo,Helene Baines,,11,7,2,301,2,0,0,helene baines,fontsanta fatjo,"Helene Baines
+Helene Baines OcaÃ±a",352493,fontsanta-fatjo,Helene Baines,0.598006645,0,0,Veterana,0,0.636363636,0.285714286
+Fontsanta Fatjo,Judit Ferre,,3,3,2,142,0,1,0,judit ferre,fontsanta fatjo,"Judit Ferre
+Judit Ferre Valls",687071,fontsanta-fatjo,Judit Ferre,0,0.633802817,0,Joven,0,1,0.666666667
+Fontsanta Fatjo,Julia Parareda,,15,14,12,1060,2,1,0,julia parareda,fontsanta fatjo,"Julia Parareda
+Julia Parareda Martinez",674028,fontsanta-fatjo,Julia Parareda,0.169811321,0.08490566,0,Joven,0,0.933333333,0.857142857
+Fontsanta Fatjo,Lara Palomino,,11,10,4,374,0,0,0,lara palomino,fontsanta fatjo,"Lara Palomino
+Lara Palomino Hernandez",562749,fontsanta-fatjo,Lara Palomino,0,0,0,Intermedia,0,0.909090909,0.4
+Fontsanta Fatjo,Laura Lameiro,,2,0,0,0,0,0,0,laura lameiro,fontsanta fatjo,Laura Lameiro,555187,fontsanta-fatjo,Laura Lameiro,0,0,0,Intermedia,0,0,0
+Fontsanta Fatjo,Marina Sonet,,11,11,4,422,0,1,0,marina sonet,fontsanta fatjo,"Marina Sonet
+Marina Sonet Feliu",562744,fontsanta-fatjo,Marina Sonet,0,0.213270142,0,Intermedia,0,1,0.363636364
+Fontsanta Fatjo,Marinaa Undefined,,4,4,0,98,0,1,0,marinaa undefined,fontsanta fatjo,"Marinaa Undefined
+Marinaa Undefined Marinaa",651267,fontsanta-fatjo,Marinaa Undefined,0,0.918367347,0,Joven,0,1,0
+Fontsanta Fatjo,Marta Vilarrasa,,12,10,5,421,1,2,0,marta vilarrasa,fontsanta fatjo,"Marta Vilarrasa
+Marta Vilarrasa Palacios",692385,fontsanta-fatjo,Marta Vilarrasa,0.213776722,0.427553444,0,Joven,0,0.833333333,0.5
+Fontsanta Fatjo,Maryangel Cuellar,,8,8,5,505,1,2,0,maryangel cuellar,fontsanta fatjo,"Maryangel Cuellar
+Maryangel Cuellar Ferrufino",555188,fontsanta-fatjo,Maryangel Cuellar,0.178217822,0.356435644,0,Intermedia,0,1,0.625
+Fontsanta Fatjo,Michelle Brogden,,3,2,0,47,0,0,0,michelle brogden,fontsanta fatjo,"Michelle Brogden
+Michelle Brogden",562747,fontsanta-fatjo,Michelle Brogden,0,0,0,Intermedia,0,0.666666667,0
+Fontsanta Fatjo,Mireia Bellido,,16,15,14,1260,1,1,0,mireia bellido,fontsanta fatjo,Mireia Bellido,679817,fontsanta-fatjo,Mireia Bellido,0.071428571,0.071428571,0,Joven,0,0.9375,0.933333333
+Fontsanta Fatjo,Nerea Romero,,14,14,12,965,4,2,1,nerea romero,fontsanta fatjo,"Nerea Romero
+Nerea Romero Grimaldos",562748,fontsanta-fatjo,Nerea Romero,0.373056995,0.186528497,0.093264249,Intermedia,0,1,0.857142857
+Fontsanta Fatjo,Parker Paige,,12,10,7,565,0,0,0,parker paige,fontsanta fatjo,"Parker Paige
+Parker Paige Lee",662821,fontsanta-fatjo,Parker Paige,0,0,0,Joven,0,0.833333333,0.7
+Fontsanta Fatjo,Paula Pujol,,12,12,6,608,2,1,0,paula pujol,fontsanta fatjo,"Paula Pujol
+Paula Pujol Martinez",647694,fontsanta-fatjo,Paula Pujol,0.296052632,0.148026316,0,Joven,0,1,0.5
+Fontsanta Fatjo,Rin Akiyama,,9,9,6,564,0,0,0,rin akiyama,fontsanta fatjo,"Rin Akiyama
+Rin Akiyama",668706,fontsanta-fatjo,Rin Akiyama,0,0,0,Joven,0,1,0.666666667
+Fontsanta Fatjo,Sara Gimenez,,15,11,7,697,0,2,0,sara gimenez,fontsanta fatjo,"Sara Gimenez
+Sara Gimenez Martin",559443,fontsanta-fatjo,Sara Gimenez,0,0.258249641,0,Intermedia,0,0.733333333,0.636363636
+Fund Ue Cornella,Andrea,Portero,7,4,4,360,-1,0,0,andrea,fund ue cornella,"Andrea
+Andrea Crespo Jimenez",555186,fund-ue-cornella,Andrea,0,0,0,Intermedia,0.25,0.571428571,1
+Fund Ue Cornella,Carla,Portero,12,8,8,707,-7,0,0,carla,fund ue cornella,"Carla
+Carla MuÃ±oz Caballero",588082,fund-ue-cornella,Carla,0,0,0,Intermedia,0.891089109,0.666666667,1
+Fund Ue Cornella,Nuria Navarro,Portero,10,5,4,373,-3,0,0,nuria navarro,fund ue cornella,"Nuria Navarro
+Nuria Navarro Baills",562745,fund-ue-cornella,Nuria Navarro,0,0,0,Intermedia,0.72386059,0.5,0.8
+Fund Ue Cornella,Garni,Lateral Izquierdo,16,16,16,1411,0,1,0,garni,fund ue cornella,"Garni
+Judit Garnica GonzÃ¡lez",555178,fund-ue-cornella,Garni,0,0.06378455,0,Intermedia,0,1,1
+Fund Ue Cornella,Alegre,Centrocampista,16,16,15,1369,7,4,0,alegre,fund ue cornella,Alegre,555190,fund-ue-cornella,Alegre,0.46018992,0.262965668,0,Intermedia,0,1,0.9375
+Fund Ue Cornella,Paula,Centrocampista,15,15,11,998,0,2,0,paula,fund ue cornella,"Paula
+Paula LÃ³pez Rubio",578441,fund-ue-cornella,Paula,0,0.180360721,0,Intermedia,0,1,0.733333333
+Fund Ue Cornella,Angi,Delantero,13,11,4,486,3,2,0,angi,fund ue cornella,"Angi
+Angela Farres Basso",555245,fund-ue-cornella,Angi,0.555555556,0.37037037,0,Intermedia,0,0.846153846,0.363636364
+Fund Ue Cornella,Magda,Delantero,14,10,4,349,0,0,0,magda,fund ue cornella,Magda,555242,fund-ue-cornella,Magda,0,0,0,Intermedia,0,0.714285714,0.4
+Fund Ue Cornella,Mas,Delantero,7,7,5,334,0,0,0,mas,fund ue cornella,"Mas
+Laura Mas Berenguer",651268,fund-ue-cornella,Mas,0,0,0,Joven,0,1,0.714285714
+Fund Ue Cornella,Abril De Gironella,,13,5,2,188,0,1,0,abril de gironella,fund ue cornella,"Abril De Gironella
+Abril De Gironella Ribera",492023,fund-ue-cornella,Abril De Gironella,0,0.478723404,0,Intermedia,0,0.384615385,0.4
+Fund Ue Cornella,Alba Closa,,12,11,9,794,0,2,0,alba closa,fund ue cornella,"Alba Closa
+Alba Closa TarrÃ©s",391997,fund-ue-cornella,Alba Closa,0,0.226700252,0,Veterana,0,0.916666667,0.818181818
+Fund Ue Cornella,Alba Ramos,,16,15,15,1350,0,2,0,alba ramos,fund ue cornella,"Alba Ramos
+Alba Ramos Guerrero",355270,fund-ue-cornella,Alba Ramos,0,0.133333333,0,Veterana,0,0.9375,1
+Fund Ue Cornella,Clara Cos,,16,16,16,1419,4,3,0,clara cos,fund ue cornella,Clara Cos,555247,fund-ue-cornella,Clara Cos,0.253699789,0.190274841,0,Intermedia,0,1,1
+Fund Ue Cornella,Claudia Gomez,,15,14,9,770,2,0,0,claudia gomez,fund ue cornella,"Claudia Gomez
+Claudia Gomez Martinez",491484,fund-ue-cornella,Claudia Gomez,0.233766234,0,0,Intermedia,0,0.933333333,0.642857143
+Fund Ue Cornella,Elsa Todoli,,6,2,0,53,0,0,0,elsa todoli,fund ue cornella,"Elsa Todoli
+Elsa Todoli Perez",555248,fund-ue-cornella,Elsa Todoli,0,0,0,Intermedia,0,0.333333333,0
+Fund Ue Cornella,Iris González,,4,2,1,62,0,0,0,iris gonzalez,fund ue cornella,"Iris GonzÃ¡lez
+Iris GonzÃ¡lez Camps",652371,fund-ue-cornella,Iris GonzÃ¡lez,0,0,0,Joven,0,0.5,0.5
+Fund Ue Cornella,Ivette Muñoz,,1,0,0,0,0,0,0,ivette munoz,fund ue cornella,,662842,,,0,0,0,Joven,0,0,0
+Fund Ue Cornella,Joana Marcer,,13,11,7,643,1,0,0,joana marcer,fund ue cornella,"Joana Marcer
+Joana Marcer Ruiz",488576,fund-ue-cornella,Joana Marcer,0.139968896,0,0,Intermedia,0,0.846153846,0.636363636
+Fund Ue Cornella,Josepha Lea,,15,15,11,1009,5,2,0,josepha lea,fund ue cornella,"Josepha Lea
+Josepha Lea M",562725,fund-ue-cornella,Josepha Lea,0.445986125,0.17839445,0,Intermedia,0,1,0.733333333
+Fund Ue Cornella,Leire Paquico,,1,0,0,0,0,0,0,leire paquico,fund ue cornella,"Leire Paquico
+Leire Paquico Calet",555179,fund-ue-cornella,Leire Paquico,0,0,0,Intermedia,0,0,0
+Fund Ue Cornella,Martina Pubill,,14,14,12,1098,12,0,0,martina pubill,fund ue cornella,Martina Pubill,562730,fund-ue-cornella,Martina Pubill,0.983606557,0,0,Intermedia,0,1,0.857142857
+Fund Ue Cornella,Meritxell Santos,,15,15,14,1205,2,0,0,meritxell santos,fund ue cornella,"Meritxell Santos
+Meritxell Santos Contreras",647693,fund-ue-cornella,Meritxell Santos,0.149377593,0,0,Joven,0,1,0.933333333
+Fund Ue Cornella,Nuria Domenech,,14,14,8,726,4,1,0,nuria domenech,fund ue cornella,"Nuria Domenech
+Nuria Domenech Saumoy",,fund-ue-cornella,Nuria Domenech,0.495867769,0.123966942,0,Desconocida,0,1,0.571428571
+Fund Ue Cornella,Rocio Pagador,,1,0,0,0,0,0,0,rocio pagador,fund ue cornella,Rocio Pagador,659745,fund-ue-cornella,Rocio Pagador,0,0,0,Joven,0,0,0
+Fundacio Fb Reus,Sole Segarra,Portero,16,10,10,900,-13,0,0,sole segarra,fundacio fb reus,"Sole Segarra
+Laura Sole Segarra",651269,fundacio-fb-reus,Sole Segarra,0,0,0,Joven,1.3,0.625,1
+Fundacio Fb Reus,JUDITH,Portero,16,6,6,540,-11,1,0,judith,fundacio fb reus,"JUDITH
+JUDITH CUNILLERA RIVERA",659747,fundacio-fb-reus,JUDITH,0,0.166666667,0,Joven,1.833333333,0.375,1
+Fundacio Fb Reus,LAIA,Defensa,15,15,15,1310,2,0,1,laia,fundacio fb reus,LAIA,651271,fundacio-fb-reus,LAIA,0.13740458,0,0.06870229,Joven,0,1,1
+Fundacio Fb Reus,SARA,Defensa,14,14,12,1027,0,0,0,sara,fundacio fb reus,"SARA
+SARA AZZOUZ BARRERA",652369,fundacio-fb-reus,SARA,0,0,0,Joven,0,1,0.857142857
+Fundacio Fb Reus,Anna Amato,Media punta,16,15,14,1238,12,2,0,anna amato,fundacio fb reus,Anna Amato,651272,fundacio-fb-reus,Anna Amato,0.872374798,0.1453958,0,Joven,0,0.9375,0.933333333
+Fundacio Fb Reus,CARME,Delantero Centro,16,16,14,1119,1,3,0,carme,fundacio fb reus,"CARME
+MARIA DEL CARME CENDRA CASELLAS",652370,fundacio-fb-reus,CARME,0.080428954,0.241286863,0,Joven,0,1,0.875
+Fundacio Fb Reus,Abril Sala,,15,14,12,1111,0,2,1,abril sala,fundacio fb reus,"Abril Sala
+Abril Sala Carbasse",555099,fundacio-fb-reus,Abril Sala,0,0.162016202,0.081008101,Intermedia,0,0.933333333,0.857142857
+Fundacio Fb Reus,Aina Flores,,1,1,1,90,0,0,0,aina flores,fundacio fb reus,"Aina Flores
+Aina Flores Vilanova",578996,fundacio-fb-reus,Aina Flores,0,0,0,Intermedia,0,1,1
+Fundacio Fb Reus,Alba Armengol,,14,14,12,951,0,1,0,alba armengol,fundacio fb reus,"Alba Armengol
+Alba Armengol Lozano",578992,fundacio-fb-reus,Alba Armengol,0,0.094637224,0,Intermedia,0,1,0.857142857
+Fundacio Fb Reus,Alba Solís,,2,0,0,0,0,0,0,alba solis,fundacio fb reus,,578993,,,0,0,0,Intermedia,0,0,0
+Fundacio Fb Reus,Alexia Lozano,,3,3,0,53,0,1,0,alexia lozano,fundacio fb reus,"Alexia Lozano
+Alexia Lozano Pons",604884,fundacio-fb-reus,Alexia Lozano,0,1.698113208,0,Joven,0,1,0
+Fundacio Fb Reus,Ane Larrañaga,,5,5,2,214,0,0,0,ane larranaga,fundacio fb reus,,579001,,,0,0,0,Intermedia,0,1,0.4
+Fundacio Fb Reus,Cinta Vilarroya,,15,14,12,939,2,1,0,cinta vilarroya,fundacio fb reus,"Cinta Vilarroya
+Cinta Vilarroya Benet",647715,fundacio-fb-reus,Cinta Vilarroya,0.191693291,0.095846645,0,Joven,0,0.933333333,0.857142857
+Fundacio Fb Reus,Dalmau,,16,16,15,1257,0,2,0,dalmau,fundacio fb reus,"Dalmau
+Mar Dalmau Callau",694666,fundacio-fb-reus,Dalmau,0,0.143198091,0,Joven,0,1,0.9375
+Fundacio Fb Reus,Elsa Bryson,,2,2,2,180,0,0,0,elsa bryson,fundacio fb reus,"Elsa Bryson
+Elsa Bryson Berga",651296,fundacio-fb-reus,Elsa Bryson,0,0,0,Joven,0,1,1
+Fundacio Fb Reus,Elsa Doncel,,6,4,0,73,0,0,0,elsa doncel,fundacio fb reus,"Elsa Doncel
+Elsa Doncel GarcÃ­a",,fundacio-fb-reus,Elsa Doncel,0,0,0,Desconocida,0,0.666666667,0
+Fundacio Fb Reus,Erica Bracciante,,2,2,0,35,0,0,0,erica bracciante,fundacio fb reus,"Erica Bracciante
+Erica Bracciante",672511,fundacio-fb-reus,Erica Bracciante,0,0,0,Joven,0,1,0
+Fundacio Fb Reus,Judith Perello,,4,4,1,138,0,0,0,judith perello,fundacio fb reus,"Judith Perello
+Judith Perello Subirats",,fundacio-fb-reus,Judith Perello,0,0,0,Desconocida,0,1,0.25
+Fundacio Fb Reus,Mar Gavalda,,5,4,1,148,0,2,0,mar gavalda,fundacio fb reus,"Mar Gavalda
+Mar Gavalda Mena",651293,fundacio-fb-reus,Mar Gavalda,0,1.216216216,0,Joven,0,0.8,0.25
+Fundacio Fb Reus,Martin,,5,5,0,138,0,0,0,martin,fundacio fb reus,"Martin
+Mireia Martin Lopez",358760,fundacio-fb-reus,Martin,0,0,0,Veterana,0,1,0
+Fundacio Fb Reus,Melinda Perez,,2,1,0,16,0,0,0,melinda perez,fundacio fb reus,"Melinda Perez
+Melinda Perez Pineda",647716,fundacio-fb-reus,Melinda Perez,0,0,0,Joven,0,0.5,0
+Fundacio Fb Reus,Nadine Pérez,,14,12,1,252,0,0,0,nadine perez,fundacio fb reus,,668705,,,0,0,0,Joven,0,0.857142857,0.083333333
+Fundacio Fb Reus,Nil Figueras,,5,4,1,165,0,0,0,nil figueras,fundacio fb reus,"Nil Figueras
+Nil Figueras Garcia",679825,fundacio-fb-reus,Nil Figueras,0,0,0,Joven,0,0.8,0.25
+Fundacio Fb Reus,Noa Cobos,,15,15,13,1170,2,5,0,noa cobos,fundacio fb reus,Noa Cobos,651292,fundacio-fb-reus,Noa Cobos,0.153846154,0.384615385,0,Joven,0,1,0.866666667
+Fundacio Fb Reus,Olivia Curto,,1,1,0,24,0,0,0,olivia curto,fundacio fb reus,"Olivia Curto
+Olivia Curto Batiste",679824,fundacio-fb-reus,Olivia Curto,0,0,0,Joven,0,1,0
+Fundacio Fb Reus,Olivia Garcia,,1,1,0,23,0,0,0,olivia garcia,fundacio fb reus,"Olivia Garcia
+Olivia Garcia Millon",358056,fundacio-fb-reus,Olivia Garcia,0,0,0,Veterana,0,1,0
+Fundacio Fb Reus,Sara Armengol,,14,12,6,464,0,0,0,sara armengol,fundacio fb reus,"Sara Armengol
+Sara Armengol Lozano",669915,fundacio-fb-reus,Sara Armengol,0,0,0,Joven,0,0.857142857,0.5
+Fundacio Fb Reus,Vernet,,16,16,14,1137,1,2,0,vernet,fundacio fb reus,"Vernet
+Julia Vernet Aguila",,fundacio-fb-reus,Vernet,0.079155673,0.158311346,0,Desconocida,0,1,0.875
+Fundacio Fb Reus,Xenia Peris,,4,4,1,134,1,2,0,xenia peris,fundacio fb reus,"Xenia Peris
+Xenia Peris Flores",651294,fundacio-fb-reus,Xenia Peris,0.671641791,1.343283582,0,Joven,0,1,0.25
+Fundacio Fb Reus,Zoe Bonet,,16,16,9,753,0,2,0,zoe bonet,fundacio fb reus,"Zoe Bonet
+Zoe Bonet Jimenez",555104,fundacio-fb-reus,Zoe Bonet,0,0.239043825,0,Intermedia,0,1,0.5625
+Girona Fc,Nara,Portero,8,2,2,180,-6,0,0,nara,girona fc,"Nara
+Nara Peula Reixach",693623,girona-fc,Nara,0,0,0,Joven,3,0.25,1
+Girona Fc,Nuria Relat,Portero,11,6,6,540,-13,1,0,nuria relat,girona fc,"Nuria Relat
+Nuria Relat Soliguer",555202,girona-fc,Nuria Relat,0,0.166666667,0,Intermedia,2.166666667,0.545454545,1
+Girona Fc,Roberta Ana Archibald,Portero,8,8,8,720,-10,0,0,roberta ana archibald,girona fc,"Roberta Ana Archibald
+Roberta Ana Archibald Smith",651291,girona-fc,Roberta Ana Archibald,0,0,0,Joven,1.25,1,1
+Girona Fc,Caranca,Defensa,11,10,2,338,1,0,0,caranca,girona fc,Caranca,357060,girona-fc,Caranca,0.266272189,0,0,Veterana,0,0.909090909,0.2
+Girona Fc,Ruth Martinez,Lateral Derecho,5,0,0,0,0,0,0,ruth martinez,girona fc,Ruth Martinez,604885,girona-fc,Ruth Martinez,0,0,0,Joven,0,0,0
+Girona Fc,Ariadna Cerezuela,Delantero,14,13,8,800,3,0,0,ariadna cerezuela,girona fc,Ariadna Cerezuela,406420,girona-fc,Ariadna Cerezuela,0.3375,0,0,Intermedia,0,0.928571429,0.615384615
+Girona Fc,Aida Illas,,10,10,9,659,0,1,0,aida illas,girona fc,"Aida Illas
+Aida Illas PagÃ¨s",613858,girona-fc,Aida Illas,0,0.136570561,0,Joven,0,1,0.9
+Girona Fc,Ainara Montoya,,4,0,0,0,0,0,0,ainara montoya,girona fc,"Ainara Montoya
+Ainara Montoya Reyes",608130,girona-fc,Ainara Montoya,0,0,0,Joven,0,0,0
+Girona Fc,Alba Ingles,,9,7,4,387,0,1,0,alba ingles,girona fc,"Alba Ingles
+Alba Ingles Cayuela",679821,girona-fc,Alba Ingles,0,0.23255814,0,Joven,0,0.777777778,0.571428571
+Girona Fc,Anais Brich,,13,11,5,484,1,0,0,anais brich,girona fc,"Anais Brich
+Anais Brich LÃ³pez",491486,girona-fc,Anais Brich,0.185950413,0,0,Intermedia,0,0.846153846,0.454545455
+Girona Fc,Bruna Jurado,,10,10,5,572,1,0,0,bruna jurado,girona fc,"Bruna Jurado
+Bruna Jurado SimÃ³n",662819,girona-fc,Bruna Jurado,0.157342657,0,0,Joven,0,1,0.5
+Girona Fc,Clàudia Bustins,,14,13,8,614,0,0,0,claudia bustins,girona fc,,608138,,,0,0,0,Joven,0,0.928571429,0.615384615
+Girona Fc,Fernandez,,13,13,13,1072,3,1,0,fernandez,girona fc,"Fernandez
+Emma Fernandez Rodriguez",651274,girona-fc,Fernandez,0.251865672,0.083955224,0,Joven,0,1,1
+Girona Fc,Gemma Estany,,8,7,4,233,0,0,0,gemma estany,girona fc,"Gemma Estany
+Gemma Estany Gonzalez",687072,girona-fc,Gemma Estany,0,0,0,Joven,0,0.875,0.571428571
+Girona Fc,Jana Redondo,,15,15,14,1288,1,2,0,jana redondo,girona fc,"Jana Redondo
+Jana Redondo Pertegas",608136,girona-fc,Jana Redondo,0.069875776,0.139751553,0,Joven,0,1,0.933333333
+Girona Fc,Judit Granados,,13,12,8,735,1,4,0,judit granados,girona fc,Judit Granados,647701,girona-fc,Judit Granados,0.12244898,0.489795918,0,Joven,0,0.923076923,0.666666667
+Girona Fc,Julia Diaz,,3,3,3,242,0,1,0,julia diaz,girona fc,"Julia Diaz
+Julia Diaz Ferrer",669918,girona-fc,Julia Diaz,0,0.371900826,0,Joven,0,1,1
+Girona Fc,Julia Uriel,,15,13,5,426,1,1,0,julia uriel,girona fc,"Julia Uriel
+Julia Uriel Bosch",,girona-fc,Julia Uriel,0.211267606,0.211267606,0,Desconocida,0,0.866666667,0.384615385
+Girona Fc,Laia Jiménez,,4,4,4,331,0,1,0,laia jimenez,girona fc,,356667,,,0,0.271903323,0,Veterana,0,1,1
+Girona Fc,Lisa Bos,,7,7,6,584,0,0,0,lisa bos,girona fc,"Lisa Bos
+Lisa Bos Sanchez",651276,girona-fc,Lisa Bos,0,0,0,Joven,0,1,0.857142857
+Girona Fc,Maria Corominas,,14,14,12,1008,0,0,0,maria corominas,girona fc,"Maria Corominas
+Maria Corominas Caballero",651273,girona-fc,Maria Corominas,0,0,0,Joven,0,1,0.857142857
+Girona Fc,Maria Fernandez,,12,12,3,473,2,1,0,maria fernandez,girona fc,"Maria Fernandez
+Maria Fernandez Garcia",608141,girona-fc,Maria Fernandez,0.380549683,0.190274841,0,Joven,0,1,0.25
+Girona Fc,Maria Peña,,3,3,3,270,0,0,0,maria pena,girona fc,,659701,,,0,0,0,Joven,0,1,1
+Girona Fc,Meritxell Civit,,1,0,0,0,0,0,0,meritxell civit,girona fc,"Meritxell Civit
+Meritxell Civit Cardona",608140,girona-fc,Meritxell Civit,0,0,0,Joven,0,0,0
+Girona Fc,Miren Duque,,10,7,3,308,0,1,0,miren duque,girona fc,"Miren Duque
+Miren Duque Ocio",,girona-fc,Miren Duque,0,0.292207792,0,Desconocida,0,0.7,0.428571429
+Girona Fc,Nora Falguera,,1,1,1,57,0,0,0,nora falguera,girona fc,"Nora Falguera
+Nora Falguera Coll",608146,girona-fc,Nora Falguera,0,0,0,Joven,0,1,1
+Girona Fc,Paula Lloret,,14,14,12,1026,1,0,0,paula lloret,girona fc,"Paula Lloret
+Paula Lloret Torro",608131,girona-fc,Paula Lloret,0.087719298,0,0,Joven,0,1,0.857142857
+Girona Fc,Paula Lopez,,1,0,0,0,0,0,0,paula lopez,girona fc,"Paula Lopez
+Paula Lopez Parra",608142,girona-fc,Paula Lopez,0,0,0,Joven,0,0,0
+Girona Fc,Paula Maresma,,14,14,13,1090,3,2,0,paula maresma,girona fc,"Paula Maresma
+Paula Maresma Surroca",,girona-fc,Paula Maresma,0.247706422,0.165137615,0,Desconocida,0,1,0.928571429
+Girona Fc,Sònia Brugués,,2,0,0,0,0,0,0,sonia brugues,girona fc,,581385,,,0,0,0,Intermedia,0,0,0
+Girona Fc,Thais Román,,15,15,15,1288,3,2,0,thais roman,girona fc,Thais RomÃ¡n,608137,girona-fc,Thais RomÃ¡n,0.209627329,0.139751553,0,Joven,0,1,1
+Sant Cugat Fc,Daniela Carolina Bermeo,Portero,15,12,12,1080,-13,0,0,daniela carolina bermeo,sant cugat fc,"Daniela Carolina Bermeo
+Daniela Carolina Bermeo Gallardo",679816,sant-cugat-fc,Daniela Carolina Bermeo,0,0,0,Joven,1.083333333,0.8,1
+Sant Cugat Fc,Irune Prats,Portero,1,0,0,0,0,0,0,irune prats,sant cugat fc,Irune Prats,608132,sant-cugat-fc,Irune Prats,0,0,0,Joven,0,0,0
+Sant Cugat Fc,Suárez,Portero,15,4,4,360,-6,0,0,suarez,sant cugat fc,"SuÃ¡rez
+Maria del Pilar SuÃ¡rez Catarineu",687070,sant-cugat-fc,SuÃ¡rez,0,0,0,Joven,1.5,0.266666667,1
+Sant Cugat Fc,Sara Prat,Defensa,15,15,13,1174,8,4,0,sara prat,sant cugat fc,Sara Prat,659702,sant-cugat-fc,Sara Prat,0.613287905,0.306643952,0,Joven,0,1,0.866666667
+Sant Cugat Fc,Neus Vila,Medio Centro,16,16,16,1260,3,3,0,neus vila,sant cugat fc,Neus Vila,,sant-cugat-fc,Neus Vila,0.214285714,0.214285714,0,Desconocida,0,1,1
+Sant Cugat Fc,Aina Amat,,14,14,12,1142,2,1,0,aina amat,sant cugat fc,"Aina Amat
+Aina Amat Partera",608139,sant-cugat-fc,Aina Amat,0.157618214,0.078809107,0,Joven,0,1,0.857142857
+Sant Cugat Fc,Alexandra Garcia,,1,1,0,3,0,0,0,alexandra garcia,sant cugat fc,"Alexandra Garcia
+Alexandra Garcia Salanova",647690,sant-cugat-fc,Alexandra Garcia,0,0,0,Joven,0,1,0
+Sant Cugat Fc,Berta Ruano,,14,10,3,359,0,3,0,berta ruano,sant cugat fc,"Berta Ruano
+Berta Ruano Monistrol",648587,sant-cugat-fc,Berta Ruano,0,0.752089136,0,Joven,0,0.714285714,0.3
+Sant Cugat Fc,Bet Juncosa,,14,14,12,978,3,1,0,bet juncosa,sant cugat fc,"Bet Juncosa
+Bet Juncosa Llaras",377228,sant-cugat-fc,Bet Juncosa,0.27607362,0.09202454,0,Veterana,0,1,0.857142857
+Sant Cugat Fc,Carla Perez,,6,6,1,156,1,0,0,carla perez,sant cugat fc,"Carla Perez
+Carla Perez Cordero",651278,sant-cugat-fc,Carla Perez,0.576923077,0,0,Joven,0,1,0.166666667
+Sant Cugat Fc,Cristina Padilla,,12,11,10,839,0,0,0,cristina padilla,sant cugat fc,"Cristina Padilla
+Cristina Padilla Tamburini",353239,sant-cugat-fc,Cristina Padilla,0,0,0,Veterana,0,0.916666667,0.909090909
+Sant Cugat Fc,Elisabet Romero,,2,2,0,47,0,0,0,elisabet romero,sant cugat fc,"Elisabet Romero
+Elisabet Romero PÃ©rez",659704,sant-cugat-fc,Elisabet Romero,0,0,0,Joven,0,1,0
+Sant Cugat Fc,Emma Sin,,15,13,7,662,0,0,0,emma sin,sant cugat fc,"Emma Sin
+Emma Sin Alcalde",655216,sant-cugat-fc,Emma Sin,0,0,0,Joven,0,0.866666667,0.538461538
+Sant Cugat Fc,Ingrid Fernández,,12,6,3,250,0,0,0,ingrid fernandez,sant cugat fc,"Ingrid FernÃ¡ndez
+Ingrid FernÃ¡ndez San Isidoro",659707,sant-cugat-fc,Ingrid FernÃ¡ndez,0,0,0,Joven,0,0.5,0.5
+Sant Cugat Fc,Judith Brao,,14,14,14,1151,2,1,0,judith brao,sant cugat fc,"Judith Brao
+Judith Brao Lara",659712,sant-cugat-fc,Judith Brao,0.156385752,0.078192876,0,Joven,0,1,1
+Sant Cugat Fc,Laia Gómez,,1,0,0,0,0,0,0,laia gomez,sant cugat fc,,665255,,,0,0,0,Joven,0,0,0
+Sant Cugat Fc,Lydia Bellmunt,,15,15,6,681,1,0,0,lydia bellmunt,sant cugat fc,"Lydia Bellmunt
+Lydia Bellmunt Barba",647692,sant-cugat-fc,Lydia Bellmunt,0.13215859,0,0,Joven,0,1,0.4
+Sant Cugat Fc,Marcia Antonela Romoleroux,,5,2,0,29,0,1,0,marcia antonela romoleroux,sant cugat fc,"Marcia Antonela Romoleroux
+Marcia Antonela Romoleroux Buele",648589,sant-cugat-fc,Marcia Antonela Romoleroux,0,3.103448276,0,Joven,0,0.4,0
+Sant Cugat Fc,María Requena,,8,8,6,507,2,3,0,maria requena,sant cugat fc,,651280,,,0.355029586,0.532544379,0,Joven,0,1,0.75
+Sant Cugat Fc,Mia Elena,,15,13,2,329,1,0,0,mia elena,sant cugat fc,"Mia Elena
+Mia Elena Erin Soma",662822,sant-cugat-fc,Mia Elena,0.273556231,0,0,Joven,0,0.866666667,0.153846154
+Sant Cugat Fc,Naroa Altuna,,15,15,13,1151,1,2,0,naroa altuna,sant cugat fc,"Naroa Altuna
+Naroa Altuna IÃ±urrategi",659703,sant-cugat-fc,Naroa Altuna,0.078192876,0.156385752,0,Joven,0,1,0.866666667
+Sant Cugat Fc,Paola Espinosa,,13,13,13,1112,0,1,0,paola espinosa,sant cugat fc,"Paola Espinosa
+Paola Espinosa Rodriguez",,sant-cugat-fc,Paola Espinosa,0,0.080935252,0,Desconocida,0,1,1
+Sant Cugat Fc,Sofia Jimeno,,16,16,15,1319,0,1,0,sofia jimeno,sant cugat fc,Sofia Jimeno,651279,sant-cugat-fc,Sofia Jimeno,0,0.06823351,0,Joven,0,1,0.9375
+Vic Riuprimer Refo,Macia,Portero,16,12,12,1080,-16,0,0,macia,vic riuprimer refo,Macia,662824,vic-riuprimer-refo,Macia,0,0,0,Joven,1.333333333,0.75,1
+Vic Riuprimer Refo,Mireia Puigvert,Portero,14,5,4,415,-1,0,0,mireia puigvert,vic riuprimer refo,"Mireia Puigvert
+Mireia Puigvert Garcia",,vic-riuprimer-refo,Mireia Puigvert,0,0,0,Desconocida,0.21686747,0.357142857,0.8
+Vic Riuprimer Refo,Alba Planas,Defensa,16,13,10,759,0,0,0,alba planas,vic riuprimer refo,"Alba Planas
+Alba Planas Torres",651283,vic-riuprimer-refo,Alba Planas,0,0,0,Joven,0,0.8125,0.769230769
+Vic Riuprimer Refo,Cardona,Pivote Defensivo,13,13,11,1006,1,0,0,cardona,vic riuprimer refo,"Cardona
+Alba Cardona Rosanas",651281,vic-riuprimer-refo,Cardona,0.089463221,0,0,Joven,0,1,0.846153846
+Vic Riuprimer Refo,Anna Sampedro,,15,14,8,610,5,0,0,anna sampedro,vic riuprimer refo,"Anna Sampedro
+Anna Sampedro Arevalo",662823,vic-riuprimer-refo,Anna Sampedro,0.737704918,0,0,Joven,0,0.933333333,0.571428571
+Vic Riuprimer Refo,Arlet Prat,,13,7,2,188,1,0,0,arlet prat,vic riuprimer refo,"Arlet Prat
+Arlet Prat Armengol",647691,vic-riuprimer-refo,Arlet Prat,0.478723404,0,0,Joven,0,0.538461538,0.285714286
+Vic Riuprimer Refo,Iris Alsina,,1,1,0,27,0,0,0,iris alsina,vic riuprimer refo,"Iris Alsina
+Iris Alsina Martinez",360462,vic-riuprimer-refo,Iris Alsina,0,0,0,Veterana,0,1,0
+Vic Riuprimer Refo,Ivet Coll,,16,16,13,1186,0,2,0,ivet coll,vic riuprimer refo,"Ivet Coll
+Ivet Coll Camps",657663,vic-riuprimer-refo,Ivet Coll,0,0.151770658,0,Joven,0,1,0.8125
+Vic Riuprimer Refo,Joana Clota,,16,16,8,755,4,4,0,joana clota,vic riuprimer refo,Joana Clota,555193,vic-riuprimer-refo,Joana Clota,0.476821192,0.476821192,0,Intermedia,0,1,0.5
+Vic Riuprimer Refo,Judit Guardia,,16,16,11,989,0,0,0,judit guardia,vic riuprimer refo,"Judit Guardia
+Judit Guardia Cao",353075,vic-riuprimer-refo,Judit Guardia,0,0,0,Veterana,0,1,0.6875
+Vic Riuprimer Refo,Judit Palles,,16,15,9,851,5,2,0,judit palles,vic riuprimer refo,Judit Palles,647714,vic-riuprimer-refo,Judit Palles,0.528789659,0.211515864,0,Joven,0,0.9375,0.6
+Vic Riuprimer Refo,Laia Lopez,,15,15,11,906,3,1,0,laia lopez,vic riuprimer refo,"Laia Lopez
+Laia Lopez Llorens",651302,vic-riuprimer-refo,Laia Lopez,0.298013245,0.099337748,0,Joven,0,1,0.733333333
+Vic Riuprimer Refo,Massalle,,14,14,14,1260,0,3,0,massalle,vic riuprimer refo,Massalle,648621,vic-riuprimer-refo,Massalle,0,0.214285714,0,Joven,0,1,1
+Vic Riuprimer Refo,Meritxell Gil,,16,16,9,873,3,2,0,meritxell gil,vic riuprimer refo,"Meritxell Gil
+Meritxell Gil Torres",562716,vic-riuprimer-refo,Meritxell Gil,0.309278351,0.206185567,0,Intermedia,0,1,0.5625
+Vic Riuprimer Refo,Neus Juncà,,14,12,5,515,0,0,0,neus junca,vic riuprimer refo,"Neus JuncÃ 
+Neus JuncÃ  Colom",562717,vic-riuprimer-refo,Neus JuncÃ ,0,0,0,Intermedia,0,0.857142857,0.416666667
+Vic Riuprimer Refo,Ona Vidal,,13,12,8,863,0,1,0,ona vidal,vic riuprimer refo,"Ona Vidal
+Ona Vidal Albiol",562714,vic-riuprimer-refo,Ona Vidal,0,0.10428737,0,Intermedia,0,0.923076923,0.666666667
+Vic Riuprimer Refo,Paula Ortiz,,16,16,12,1045,1,0,0,paula ortiz,vic riuprimer refo,"Paula Ortiz
+Paula Ortiz Arranz",562718,vic-riuprimer-refo,Paula Ortiz,0.086124402,0,0,Intermedia,0,1,0.75
+Vic Riuprimer Refo,Roca,,1,1,0,9,0,0,0,roca,vic riuprimer refo,Roca,574295,vic-riuprimer-refo,Roca,0,0,0,Intermedia,0,1,0
+Vic Riuprimer Refo,Rut Cervera,,16,16,15,1233,3,0,0,rut cervera,vic riuprimer refo,"Rut Cervera
+Rut Cervera Lopez",379137,vic-riuprimer-refo,Rut Cervera,0.218978102,0,0,Veterana,0,1,0.9375
+Vic Riuprimer Refo,Sellarès,,14,11,7,693,0,0,0,sellares,vic riuprimer refo,,555194,,,0,0,0,Intermedia,0,0.785714286,0.636363636
+Vic Riuprimer Refo,Valor,,8,8,7,541,0,0,0,valor,vic riuprimer refo,"Valor
+Alba Valor Torras",651303,vic-riuprimer-refo,Valor,0,0,0,Joven,0,1,0.875

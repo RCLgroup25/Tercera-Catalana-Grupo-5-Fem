@@ -7,7 +7,7 @@ import os
 # =========================================================
 # CONFIGURACIÓN
 # =========================================================
-st.set_page_config(layout="wide", page_title="Gutilytics Scouting", page_icon="⚽")
+st.set_page_config(layout="wide", page_title="Gutilytics Intelligence Scouting", page_icon="⚽")
 
 LOGOS = {
     "fc barcelona c": "barcelona.png",
@@ -64,7 +64,7 @@ min_minutos = st.sidebar.slider("Minutos mínimos", 0, int(df_raw["Minutos"].max
 df = df_raw[df_raw["Minutos"] >= min_minutos].copy()
 
 # --- CUERPO ---
-st.title("⚽ Dashboard Preferente Femenina Catalunya")
+st.title("⚽ Dashboard Tercera Federación Grupo 5")
 
 tabs = st.tabs(["📈 Análisis Liga", "🏟️ Equipos", "🧤 Porteras"])
 
@@ -135,4 +135,5 @@ with tabs[2]:
             st.dataframe(df_gk[cols_gk].sort_values("goles_recibidos_per90").style.format({
                 "goles_recibidos_per90": "{:.2f}", "ratio_titularidad": "{:.2f}"
             }), use_container_width=True, hide_index=True)
+
 
